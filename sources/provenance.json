@@ -1,0 +1,121 @@
+{
+  "generator": "built-in image_gen.imagegen (imagegen skill)",
+  "visible_generated_characters": 597,
+  "atlases": [
+    {
+      "sheet": "01",
+      "source": "sources/sheets/sheet-01.png",
+      "source_sha256": "28eb49f986e3b0298405513c3d64d2666f8079e751376e85d5f6d5b386074a30",
+      "prompt": "prompts/sheet-01.txt",
+      "prompt_sha256": "ea333618f0c56be14db5fccf84e5fb07b39f70090e1c6bb5dd809aea33dd330c",
+      "characters": "一右雨円王音下火花貝学気九休玉金空月犬見五口校左三山子四糸字耳七車手十出女小上森人水正生青夕石赤"
+    },
+    {
+      "sheet": "02",
+      "source": "sources/sheets/sheet-02.png",
+      "source_sha256": "db7728f9cf38cee15f30b96f10b402219a335619770900bf3c24e147581678e3",
+      "prompt": "prompts/sheet-02.txt",
+      "prompt_sha256": "e5f824ecc8e7a2b78ac58fba54a0a2039d12d2fc7bc0085abbd7cac307938428",
+      "characters": "千川先早草足村大男竹中虫町天田土二日入年白八百文木本名目立力林六引羽雲園遠何科夏家歌画回会海絵外"
+    },
+    {
+      "sheet": "03",
+      "source": "sources/sheets/sheet-03.png",
+      "source_sha256": "d145b97bb3bb581ca1fc68f30135ba68ecc7e936ab3695487dde982fdc105e4a",
+      "prompt": "prompts/sheet-03.txt",
+      "prompt_sha256": "f09fdf772fbe799117e513a35f7bb119aaabe989f6721ac3a65dbc522dd1b364",
+      "characters": "角楽活間丸岩顔汽記帰弓牛魚京強教近兄形計元言原戸古午後語工公広交光考行高黄合谷国黒今才細作算止市"
+    },
+    {
+      "sheet": "04",
+      "source": "sources/sheets/sheet-04.png",
+      "source_sha256": "3b54d4c41be3886b0aaf05e7ee892e98a46a3679c11c15b6dc14753de9fc1ac1",
+      "prompt": "prompts/sheet-04.txt",
+      "prompt_sha256": "fc33790ef8f386a633f9b4b23be55a9444265b38cfb49a6e3e5d8aa4e36b072e",
+      "characters": "矢姉思紙寺自時室社弱首秋週春書少場色食心新親図数西声星晴切雪船線前組走多太体台地池知茶昼長鳥朝直"
+    },
+    {
+      "sheet": "05",
+      "source": "sources/sheets/sheet-05.png",
+      "source_sha256": "d7a2f5d3919039b912fdd084b2e8d496658444874fc99fce2733f95ed2905571",
+      "prompt": "prompts/sheet-05.txt",
+      "prompt_sha256": "fa70bc8a205e7eebff562af174e8600beb15ea6d3624b72bc5951e28d3da092b",
+      "characters": "通弟店点電刀冬当東答頭同道読内南肉馬売買麦半番父風分聞米歩母方北毎妹万明鳴毛門夜野友用曜来里理話"
+    },
+    {
+      "sheet": "06",
+      "source": "sources/sheets/sheet-06.png",
+      "source_sha256": "5b9680928ede274aa6f8427fbf401c127e7babdfa6a971b7092a870a2938b2d4",
+      "prompt": "prompts/sheet-06.txt",
+      "prompt_sha256": "9a6e5e92c724e311f8bd3aaf43a472033b099b4bbdb26f49ff7c81b094f62ebd",
+      "characters": "ぁあぃいぅうぇえぉおかがきぎくぐけげこごさざしじすずせぜそぞただちぢっつづてでとどなにぬねのはば"
+    },
+    {
+      "sheet": "07",
+      "source": "sources/sheets/sheet-07.png",
+      "source_sha256": "971a8dbe168b1f45fd3aad6ccf5a793647c5f011708ffb2a2e1d53728d679c1b",
+      "prompt": "prompts/sheet-07.txt",
+      "prompt_sha256": "3f8a4dffa888e5fec7cd4d010f07eec2f9a3deb74911ade33386b3acf47af9c5",
+      "characters": "ぱひびぴふぶぷへべぺほぼぽまみむめもゃやゅゆょよらりるれろゎわゐゑをんゔゕゖァアィイゥウェエォオ"
+    },
+    {
+      "sheet": "08",
+      "source": "sources/sheets/sheet-08.png",
+      "source_sha256": "31f2d06725e7fb8cfcc06bcb681362496d8c1b68a15d15b761e44d10cfb4cca0",
+      "prompt": "prompts/sheet-08.txt",
+      "prompt_sha256": "4f8ca80ea9af820c69406f322c45d3a74c4d8c01921db4efd3aa8f2071c89630",
+      "characters": "カガキギクグケゲコゴサザシジスズセゼソゾタダチヂッツヅテデトドナニヌネノハバパヒビピフブプヘベペ"
+    },
+    {
+      "sheet": "09",
+      "source": "sources/sheets/sheet-09.png",
+      "source_sha256": "99d00c32325001f043468e98856a8fb50405f365adadeb3c5d853a60c996ef28",
+      "prompt": "prompts/sheet-09.txt",
+      "prompt_sha256": "88327ff6aaa2d9e939eb564724d33ccc1456b5b7778088b87b12c77b4452ba69",
+      "characters": "ホボポマミムメモャヤュユョヨラリルレロヮワヰヱヲンヴヵヶヷヸヹヺ!\"#$%&'()*+,-./0"
+    },
+    {
+      "sheet": "10",
+      "source": "sources/sheets/sheet-10.png",
+      "source_sha256": "5e0448dfb24b06c77457f0d0685fbd98cd986a5fd4d9abcb4116f5193f091919",
+      "prompt": "prompts/sheet-10.txt",
+      "prompt_sha256": "53cd7ce5333a642eeb8d7d90b13273a76bc16e83552c3bcdd6e5dd27e8dfe869",
+      "characters": "123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\\]^_`"
+    },
+    {
+      "sheet": "11",
+      "source": "sources/sheets/sheet-11.png",
+      "source_sha256": "26bdc3dd971fbf701136341b64f77c00371951157c0da3193663d189361965c3",
+      "prompt": "prompts/sheet-11.txt",
+      "prompt_sha256": "ca7db43281cfe2171d2dc54c7cb64efe2723d13e64795a806a7e5e6381ff9e2d",
+      "characters": "abcdefghijklmnopqrstuvwxyz{|}~、。・「」『』（）［］｛｝〈〉《》【"
+    },
+    {
+      "sheet": "12",
+      "source": "sources/sheets/sheet-12.png",
+      "source_sha256": "9336effce66c70721b0d038e2d783c377dc126edf659d1981b175a3b695c3c66",
+      "prompt": "prompts/sheet-12.txt",
+      "prompt_sha256": "1259ac401badc759ba29767f12ef03bfa19075a52000aff29559685bd5f2c974",
+      "characters": "】！？：；ー〜…‥々〆〇゛゜ゝゞヽヾ〒※￥"
+    },
+    {
+      "sheet": "13",
+      "source": "sources/sheets/sheet-13.png",
+      "source_sha256": "c487f8a573d05f8c58f536ade249bf092306df4b750ab2337f895accad298862",
+      "prompt": "prompts/sheet-13.txt",
+      "prompt_sha256": "0a7592f785710e482372b65826d90ebeb64946a708318c15d03124dfe9b6e5a1",
+      "characters": "篆蟲體印章龍鳳凰夢雅寿福喜美愛永飛舞和吉祥祝禄豊鶴亀桜梅霞虹鷹虎蛇蝶蜂蓮華宝霊神聖祭幸結絆平安藝"
+    }
+  ],
+  "derived_shapes": {
+    "ゕ": "scaled image-generated か",
+    "ゖ": "scaled image-generated け",
+    "compatibility": "fullwidth ASCII and combining dakuten reuse generated outlines",
+    "vertical_alternates": {
+      "clockwise_rotation": "「」『』（）［］｛｝〈〉《》【】：；ー〜…‥",
+      "upper_right_translation": "、。",
+      "source": "existing image-generated horizontal outlines; no new or external glyph artwork"
+    }
+  },
+  "external_font_outlines_used": false
+}

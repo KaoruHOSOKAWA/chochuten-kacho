@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+.buildcache/
+.codex/
+.agents/
+.aws/
+output/*.ttf
+output/*.otf
+output/*.zip
+READEME.md

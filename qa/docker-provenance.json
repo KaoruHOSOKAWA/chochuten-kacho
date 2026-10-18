@@ -1,0 +1,76 @@
+{
+  "execution": "Docker container",
+  "python": "3.12.15",
+  "dependencies": {
+    "fonttools": "4.60.1",
+    "Pillow": "11.3.0",
+    "opencv-python-headless": "4.12.0.88",
+    "numpy": "2.2.6",
+    "uharfbuzz": "0.53.3"
+  },
+  "fonts": {
+    "ttf": {
+      "version": "1.001",
+      "unicode_mappings": 686,
+      "glyphs": 711,
+      "vertical_alternates": 24,
+      "bytes": 870156,
+      "sha256": "6d7d7519139718737ad6ce6d1cd984043fc4e0b4f87b0ede5fa400ec38114266",
+      "grade1": 80,
+      "grade2": 160
+    },
+    "otf": {
+      "version": "1.001",
+      "unicode_mappings": 686,
+      "glyphs": 711,
+      "vertical_alternates": 24,
+      "bytes": 1010112,
+      "sha256": "903ca4c0f6e091c3cd6ba2f667b3e92b4e7f75ac047478dcf804bd80cb42e26e",
+      "grade1": 80,
+      "grade2": 160
+    }
+  },
+  "render_validation": "passed",
+  "vertical_validation": {
+    "ttf": {
+      "vertical_alternates": 24,
+      "rotation": 22,
+      "translation": 2,
+      "shaping_checks": 288,
+      "features": [
+        "vert",
+        "vrt2"
+      ],
+      "horizontal_forms_preserved": true,
+      "bounds_and_vertical_origins": "passed",
+      "context_shaping": "passed"
+    },
+    "otf": {
+      "vertical_alternates": 24,
+      "rotation": 22,
+      "translation": 2,
+      "shaping_checks": 288,
+      "features": [
+        "vert",
+        "vrt2"
+      ],
+      "horizontal_forms_preserved": true,
+      "bounds_and_vertical_origins": "passed",
+      "context_shaping": "passed"
+    }
+  },
+  "specimen_validation": {
+    "font_sha256": "6d7d7519139718737ad6ce6d1cd984043fc4e0b4f87b0ede5fa400ec38114266",
+    "listed_characters": 686,
+    "vertical_forms": 24,
+    "missing_characters": 0,
+    "duplicate_codepoints": 0,
+    "unresolved_svg_references": 0,
+    "editable_fields": 1,
+    "inline_style_overrides": 0,
+    "vertical_glyphs_match_harfbuzz": true,
+    "readme_starts_with_sample_image": true,
+    "license": "CC0-1.0"
+  },
+  "local_virtual_environment_used": false
+}

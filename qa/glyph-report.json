@@ -1,0 +1,5375 @@
+[
+  {
+    "character": "一",
+    "unicode": "U+4E00",
+    "sheet": "01",
+    "cell": 0,
+    "ink_pixels": 1828,
+    "edge_ink": false,
+    "contours": 3
+  },
+  {
+    "character": "右",
+    "unicode": "U+53F3",
+    "sheet": "01",
+    "cell": 1,
+    "ink_pixels": 5567,
+    "edge_ink": false,
+    "contours": 5
+  },
+  {
+    "character": "雨",
+    "unicode": "U+96E8",
+    "sheet": "01",
+    "cell": 2,
+    "ink_pixels": 6917,
+    "edge_ink": false,
+    "contours": 9
+  },
+  {
+    "character": "円",
+    "unicode": "U+5186",
+    "sheet": "01",
+    "cell": 3,
+    "ink_pixels": 4983,
+    "edge_ink": false,
+    "contours": 6
+  },
+  {
+    "character": "王",
+    "unicode": "U+738B",
+    "sheet": "01",
+    "cell": 4,
+    "ink_pixels": 5266,
+    "edge_ink": false,
+    "contours": 6
+  },
+  {
+    "character": "音",
+    "unicode": "U+97F3",
+    "sheet": "01",
+    "cell": 5,
+    "ink_pixels": 5779,
+    "edge_ink": false,
+    "contours": 10
+  },
+  {
+    "character": "下",
+    "unicode": "U+4E0B",
+    "sheet": "01",
+    "cell": 6,
+    "ink_pixels": 3966,
+    "edge_ink": false,
+    "contours": 4
+  },
+  {
+    "character": "火",
+    "unicode": "U+706B",
+    "sheet": "01",
+    "cell": 7,
+    "ink_pixels": 5152,
+    "edge_ink": false,
+    "contours": 5
+  },
+  {
+    "character": "花",
+    "unicode": "U+82B1",
+    "sheet": "01",
+    "cell": 8,
+    "ink_pixels": 6824,
+    "edge_ink": false,
+    "contours": 10
+  },
+  {
+    "character": "貝",
+    "unicode": "U+8C9D",
+    "sheet": "01",
+    "cell": 9,
+    "ink_pixels": 5896,
+    "edge_ink": false,
+    "contours": 5
+  },
+  {
+    "character": "学",
+    "unicode": "U+5B66",
+    "sheet": "01",
+    "cell": 10,
+    "ink_pixels": 5744,
+    "edge_ink": false,
+    "contours": 7
+  },
+  {
+    "character": "気",
+    "unicode": "U+6C17",
+    "sheet": "01",
+    "cell": 11,
+    "ink_pixels": 5512,
+    "edge_ink": false,
+    "contours": 7
+  },
+  {
+    "character": "九",
+    "unicode": "U+4E5D",
+    "sheet": "01",
+    "cell": 12,
+    "ink_pixels": 4920,
+    "edge_ink": false,
+    "contours": 2
+  },
+  {
+    "character": "休",
+    "unicode": "U+4F11",
+    "sheet": "01",
+    "cell": 13,
+    "ink_pixels": 6077,
+    "edge_ink": false,
+    "contours": 7
+  },
+  {
+    "character": "玉",
+    "unicode": "U+7389",
+    "sheet": "01",
+    "cell": 14,
+    "ink_pixels": 5210,
+    "edge_ink": false,
+    "contours": 3
+  },
+  {
+    "character": "金",
+    "unicode": "U+91D1",
+    "sheet": "01",
+    "cell": 15,
+    "ink_pixels": 6395,
+    "edge_ink": false,
+    "contours": 10
+  },
+  {
+    "character": "空",
+    "unicode": "U+7A7A",
+    "sheet": "01",
+    "cell": 16,
+    "ink_pixels": 5733,
+    "edge_ink": false,
+    "contours": 10
+  },
+  {
+    "character": "月",
+    "unicode": "U+6708",
+    "sheet": "01",
+    "cell": 17,
+    "ink_pixels": 5157,
+    "edge_ink": false,
+    "contours": 3
+  },
+  {
+    "character": "犬",
+    "unicode": "U+72AC",
+    "sheet": "01",
+    "cell": 18,
+    "ink_pixels": 4938,
+    "edge_ink": false,
+    "contours": 5
+  },
+  {
+    "character": "見",
+    "unicode": "U+898B",
+    "sheet": "01",
+    "cell": 19,
+    "ink_pixels": 5829,
+    "edge_ink": false,
+    "contours": 5
+  },
+  {
+    "character": "五",
+    "unicode": "U+4E94",
+    "sheet": "01",
+    "cell": 20,
+    "ink_pixels": 5628,
+    "edge_ink": false,
+    "contours": 6
+  },
+  {
+    "character": "口",
+    "unicode": "U+53E3",
+    "sheet": "01",
+    "cell": 21,
+    "ink_pixels": 4295,
+    "edge_ink": false,
+    "contours": 4
+  },
+  {
+    "character": "校",
+    "unicode": "U+6821",
+    "sheet": "01",
+    "cell": 22,
+    "ink_pixels": 6678,
+    "edge_ink": false,
+    "contours": 9
+  },
+  {
+    "character": "左",
+    "unicode": "U+5DE6",
+    "sheet": "01",
+    "cell": 23,
+    "ink_pixels": 5626,
+    "edge_ink": false,
+    "contours": 10
+  },
+  {
+    "character": "三",
+    "unicode": "U+4E09",
+    "sheet": "01",
+    "cell": 24,
+    "ink_pixels": 4826,
+    "edge_ink": false,
+    "contours": 9
+  },
+  {
+    "character": "山",
+    "unicode": "U+5C71",
+    "sheet": "01",
+    "cell": 25,
+    "ink_pixels": 5362,
+    "edge_ink": false,
+    "contours": 9
+  },
+  {
+    "character": "子",
+    "unicode": "U+5B50",
+    "sheet": "01",
+    "cell": 26,
+    "ink_pixels": 4990,
+    "edge_ink": false,
+    "contours": 5
+  },
+  {
+    "character": "四",
+    "unicode": "U+56DB",
+    "sheet": "01",
+    "cell": 27,
+    "ink_pixels": 6015,
+    "edge_ink": false,
+    "contours": 7
+  },
+  {
+    "character": "糸",
+    "unicode": "U+7CF8",
+    "sheet": "01",
+    "cell": 28,
+    "ink_pixels": 5118,
+    "edge_ink": false,
+    "contours": 7
+  },
+  {
+    "character": "字",
+    "unicode": "U+5B57",
+    "sheet": "01",
+    "cell": 29,
+    "ink_pixels": 5201,
+    "edge_ink": false,
+    "contours": 8
+  },
+  {
+    "character": "耳",
+    "unicode": "U+8033",
+    "sheet": "01",
+    "cell": 30,
+    "ink_pixels": 5608,
+    "edge_ink": false,
+    "contours": 4
+  },
+  {
+    "character": "七",
+    "unicode": "U+4E03",
+    "sheet": "01",
+    "cell": 31,
+    "ink_pixels": 4244,
+    "edge_ink": false,
+    "contours": 4
+  },
+  {
+    "character": "車",
+    "unicode": "U+8ECA",
+    "sheet": "01",
+    "cell": 32,
+    "ink_pixels": 6243,
+    "edge_ink": false,
+    "contours": 8
+  },
+  {
+    "character": "手",
+    "unicode": "U+624B",
+    "sheet": "01",
+    "cell": 33,
+    "ink_pixels": 4392,
+    "edge_ink": false,
+    "contours": 7
+  },
+  {
+    "character": "十",
+    "unicode": "U+5341",
+    "sheet": "01",
+    "cell": 34,
+    "ink_pixels": 3477,
+    "edge_ink": false,
+    "contours": 5
+  },
+  {
+    "character": "出",
+    "unicode": "U+51FA",
+    "sheet": "01",
+    "cell": 35,
+    "ink_pixels": 5324,
+    "edge_ink": false,
+    "contours": 11
+  },
+  {
+    "character": "女",
+    "unicode": "U+5973",
+    "sheet": "01",
+    "cell": 36,
+    "ink_pixels": 4156,
+    "edge_ink": false,
+    "contours": 4
+  },
+  {
+    "character": "小",
+    "unicode": "U+5C0F",
+    "sheet": "01",
+    "cell": 37,
+    "ink_pixels": 3014,
+    "edge_ink": false,
+    "contours": 9
+  },
+  {
+    "character": "上",
+    "unicode": "U+4E0A",
+    "sheet": "01",
+    "cell": 38,
+    "ink_pixels": 3856,
+    "edge_ink": false,
+    "contours": 5
+  },
+  {
+    "character": "森",
+    "unicode": "U+68EE",
+    "sheet": "01",
+    "cell": 39,
+    "ink_pixels": 6141,
+    "edge_ink": false,
+    "contours": 10
+  },
+  {
+    "character": "人",
+    "unicode": "U+4EBA",
+    "sheet": "01",
+    "cell": 40,
+    "ink_pixels": 3118,
+    "edge_ink": false,
+    "contours": 3
+  },
+  {
+    "character": "水",
+    "unicode": "U+6C34",
+    "sheet": "01",
+    "cell": 41,
+    "ink_pixels": 4607,
+    "edge_ink": false,
+    "contours": 9
+  },
+  {
+    "character": "正",
+    "unicode": "U+6B63",
+    "sheet": "01",
+    "cell": 42,
+    "ink_pixels": 4563,
+    "edge_ink": false,
+    "contours": 9
+  },
+  {
+    "character": "生",
+    "unicode": "U+751F",
+    "sheet": "01",
+    "cell": 43,
+    "ink_pixels": 4904,
+    "edge_ink": false,
+    "contours": 9
+  },
+  {
+    "character": "青",
+    "unicode": "U+9752",
+    "sheet": "01",
+    "cell": 44,
+    "ink_pixels": 4436,
+    "edge_ink": false,
+    "contours": 4
+  },
+  {
+    "character": "夕",
+    "unicode": "U+5915",
+    "sheet": "01",
+    "cell": 45,
+    "ink_pixels": 3453,
+    "edge_ink": false,
+    "contours": 3
+  },
+  {
+    "character": "石",
+    "unicode": "U+77F3",
+    "sheet": "01",
+    "cell": 46,
+    "ink_pixels": 4721,
+    "edge_ink": false,
+    "contours": 6
+  },
+  {
+    "character": "赤",
+    "unicode": "U+8D64",
+    "sheet": "01",
+    "cell": 47,
+    "ink_pixels": 4724,
+    "edge_ink": false,
+    "contours": 9
+  },
+  {
+    "character": "千",
+    "unicode": "U+5343",
+    "sheet": "02",
+    "cell": 0,
+    "ink_pixels": 3887,
+    "edge_ink": false,
+    "contours": 8
+  },
+  {
+    "character": "川",
+    "unicode": "U+5DDD",
+    "sheet": "02",
+    "cell": 1,
+    "ink_pixels": 4620,
+    "edge_ink": false,
+    "contours": 18
+  },
+  {
+    "character": "先",
+    "unicode": "U+5148",
+    "sheet": "02",
+    "cell": 2,
+    "ink_pixels": 5369,
+    "edge_ink": false,
+    "contours": 18
+  },
+  {
+    "character": "早",
+    "unicode": "U+65E9",
+    "sheet": "02",
+    "cell": 3,
+    "ink_pixels": 5498,
+    "edge_ink": false,
+    "contours": 10
+  },
+  {
+    "character": "草",
+    "unicode": "U+8349",
+    "sheet": "02",
+    "cell": 4,
+    "ink_pixels": 5855,
+    "edge_ink": false,
+    "contours": 15
+  },
+  {
+    "character": "足",
+    "unicode": "U+8DB3",
+    "sheet": "02",
+    "cell": 5,
+    "ink_pixels": 5693,
+    "edge_ink": false,
+    "contours": 15
+  },
+  {
+    "character": "村",
+    "unicode": "U+6751",
+    "sheet": "02",
+    "cell": 6,
+    "ink_pixels": 5982,
+    "edge_ink": false,
+    "contours": 16
+  },
+  {
+    "character": "大",
+    "unicode": "U+5927",
+    "sheet": "02",
+    "cell": 7,
+    "ink_pixels": 4388,
+    "edge_ink": false,
+    "contours": 25
+  },
+  {
+    "character": "男",
+    "unicode": "U+7537",
+    "sheet": "02",
+    "cell": 8,
+    "ink_pixels": 6038,
+    "edge_ink": false,
+    "contours": 16
+  },
+  {
+    "character": "竹",
+    "unicode": "U+7AF9",
+    "sheet": "02",
+    "cell": 9,
+    "ink_pixels": 5466,
+    "edge_ink": false,
+    "contours": 22
+  },
+  {
+    "character": "中",
+    "unicode": "U+4E2D",
+    "sheet": "02",
+    "cell": 10,
+    "ink_pixels": 4712,
+    "edge_ink": false,
+    "contours": 16
+  },
+  {
+    "character": "虫",
+    "unicode": "U+866B",
+    "sheet": "02",
+    "cell": 11,
+    "ink_pixels": 6102,
+    "edge_ink": false,
+    "contours": 15
+  },
+  {
+    "character": "町",
+    "unicode": "U+753A",
+    "sheet": "02",
+    "cell": 12,
+    "ink_pixels": 5857,
+    "edge_ink": false,
+    "contours": 14
+  },
+  {
+    "character": "天",
+    "unicode": "U+5929",
+    "sheet": "02",
+    "cell": 13,
+    "ink_pixels": 5114,
+    "edge_ink": false,
+    "contours": 23
+  },
+  {
+    "character": "田",
+    "unicode": "U+7530",
+    "sheet": "02",
+    "cell": 14,
+    "ink_pixels": 5627,
+    "edge_ink": false,
+    "contours": 10
+  },
+  {
+    "character": "土",
+    "unicode": "U+571F",
+    "sheet": "02",
+    "cell": 15,
+    "ink_pixels": 4034,
+    "edge_ink": false,
+    "contours": 12
+  },
+  {
+    "character": "二",
+    "unicode": "U+4E8C",
+    "sheet": "02",
+    "cell": 16,
+    "ink_pixels": 3047,
+    "edge_ink": false,
+    "contours": 9
+  },
+  {
+    "character": "日",
+    "unicode": "U+65E5",
+    "sheet": "02",
+    "cell": 17,
+    "ink_pixels": 5054,
+    "edge_ink": false,
+    "contours": 13
+  },
+  {
+    "character": "入",
+    "unicode": "U+5165",
+    "sheet": "02",
+    "cell": 18,
+    "ink_pixels": 4021,
+    "edge_ink": false,
+    "contours": 21
+  },
+  {
+    "character": "年",
+    "unicode": "U+5E74",
+    "sheet": "02",
+    "cell": 19,
+    "ink_pixels": 4802,
+    "edge_ink": false,
+    "contours": 11
+  },
+  {
+    "character": "白",
+    "unicode": "U+767D",
+    "sheet": "02",
+    "cell": 20,
+    "ink_pixels": 5489,
+    "edge_ink": false,
+    "contours": 10
+  },
+  {
+    "character": "八",
+    "unicode": "U+516B",
+    "sheet": "02",
+    "cell": 21,
+    "ink_pixels": 3810,
+    "edge_ink": false,
+    "contours": 17
+  },
+  {
+    "character": "百",
+    "unicode": "U+767E",
+    "sheet": "02",
+    "cell": 22,
+    "ink_pixels": 5870,
+    "edge_ink": false,
+    "contours": 11
+  },
+  {
+    "character": "文",
+    "unicode": "U+6587",
+    "sheet": "02",
+    "cell": 23,
+    "ink_pixels": 4654,
+    "edge_ink": false,
+    "contours": 20
+  },
+  {
+    "character": "木",
+    "unicode": "U+6728",
+    "sheet": "02",
+    "cell": 24,
+    "ink_pixels": 5264,
+    "edge_ink": false,
+    "contours": 16
+  },
+  {
+    "character": "本",
+    "unicode": "U+672C",
+    "sheet": "02",
+    "cell": 25,
+    "ink_pixels": 5620,
+    "edge_ink": false,
+    "contours": 16
+  },
+  {
+    "character": "名",
+    "unicode": "U+540D",
+    "sheet": "02",
+    "cell": 26,
+    "ink_pixels": 5907,
+    "edge_ink": false,
+    "contours": 24
+  },
+  {
+    "character": "目",
+    "unicode": "U+76EE",
+    "sheet": "02",
+    "cell": 27,
+    "ink_pixels": 5559,
+    "edge_ink": false,
+    "contours": 12
+  },
+  {
+    "character": "立",
+    "unicode": "U+7ACB",
+    "sheet": "02",
+    "cell": 28,
+    "ink_pixels": 4769,
+    "edge_ink": false,
+    "contours": 19
+  },
+  {
+    "character": "力",
+    "unicode": "U+529B",
+    "sheet": "02",
+    "cell": 29,
+    "ink_pixels": 5492,
+    "edge_ink": false,
+    "contours": 14
+  },
+  {
+    "character": "林",
+    "unicode": "U+6797",
+    "sheet": "02",
+    "cell": 30,
+    "ink_pixels": 6179,
+    "edge_ink": false,
+    "contours": 26
+  },
+  {
+    "character": "六",
+    "unicode": "U+516D",
+    "sheet": "02",
+    "cell": 31,
+    "ink_pixels": 4072,
+    "edge_ink": false,
+    "contours": 21
+  },
+  {
+    "character": "引",
+    "unicode": "U+5F15",
+    "sheet": "02",
+    "cell": 32,
+    "ink_pixels": 5363,
+    "edge_ink": false,
+    "contours": 15
+  },
+  {
+    "character": "羽",
+    "unicode": "U+7FBD",
+    "sheet": "02",
+    "cell": 33,
+    "ink_pixels": 6632,
+    "edge_ink": false,
+    "contours": 21
+  },
+  {
+    "character": "雲",
+    "unicode": "U+96F2",
+    "sheet": "02",
+    "cell": 34,
+    "ink_pixels": 6938,
+    "edge_ink": false,
+    "contours": 16
+  },
+  {
+    "character": "園",
+    "unicode": "U+5712",
+    "sheet": "02",
+    "cell": 35,
+    "ink_pixels": 7585,
+    "edge_ink": false,
+    "contours": 13
+  },
+  {
+    "character": "遠",
+    "unicode": "U+9060",
+    "sheet": "02",
+    "cell": 36,
+    "ink_pixels": 6541,
+    "edge_ink": false,
+    "contours": 17
+  },
+  {
+    "character": "何",
+    "unicode": "U+4F55",
+    "sheet": "02",
+    "cell": 37,
+    "ink_pixels": 5709,
+    "edge_ink": false,
+    "contours": 15
+  },
+  {
+    "character": "科",
+    "unicode": "U+79D1",
+    "sheet": "02",
+    "cell": 38,
+    "ink_pixels": 6449,
+    "edge_ink": false,
+    "contours": 28
+  },
+  {
+    "character": "夏",
+    "unicode": "U+590F",
+    "sheet": "02",
+    "cell": 39,
+    "ink_pixels": 6954,
+    "edge_ink": false,
+    "contours": 27
+  },
+  {
+    "character": "家",
+    "unicode": "U+5BB6",
+    "sheet": "02",
+    "cell": 40,
+    "ink_pixels": 6574,
+    "edge_ink": false,
+    "contours": 29
+  },
+  {
+    "character": "歌",
+    "unicode": "U+6B4C",
+    "sheet": "02",
+    "cell": 41,
+    "ink_pixels": 7268,
+    "edge_ink": false,
+    "contours": 21
+  },
+  {
+    "character": "画",
+    "unicode": "U+753B",
+    "sheet": "02",
+    "cell": 42,
+    "ink_pixels": 7101,
+    "edge_ink": false,
+    "contours": 14
+  },
+  {
+    "character": "回",
+    "unicode": "U+56DE",
+    "sheet": "02",
+    "cell": 43,
+    "ink_pixels": 5999,
+    "edge_ink": false,
+    "contours": 10
+  },
+  {
+    "character": "会",
+    "unicode": "U+4F1A",
+    "sheet": "02",
+    "cell": 44,
+    "ink_pixels": 5774,
+    "edge_ink": false,
+    "contours": 19
+  },
+  {
+    "character": "海",
+    "unicode": "U+6D77",
+    "sheet": "02",
+    "cell": 45,
+    "ink_pixels": 7055,
+    "edge_ink": false,
+    "contours": 22
+  },
+  {
+    "character": "絵",
+    "unicode": "U+7D75",
+    "sheet": "02",
+    "cell": 46,
+    "ink_pixels": 7247,
+    "edge_ink": false,
+    "contours": 30
+  },
+  {
+    "character": "外",
+    "unicode": "U+5916",
+    "sheet": "02",
+    "cell": 47,
+    "ink_pixels": 5223,
+    "edge_ink": false,
+    "contours": 20
+  },
+  {
+    "character": "角",
+    "unicode": "U+89D2",
+    "sheet": "03",
+    "cell": 0,
+    "ink_pixels": 5441,
+    "edge_ink": false,
+    "contours": 10
+  },
+  {
+    "character": "楽",
+    "unicode": "U+697D",
+    "sheet": "03",
+    "cell": 1,
+    "ink_pixels": 6545,
+    "edge_ink": false,
+    "contours": 13
+  },
+  {
+    "character": "活",
+    "unicode": "U+6D3B",
+    "sheet": "03",
+    "cell": 2,
+    "ink_pixels": 5806,
+    "edge_ink": false,
+    "contours": 13
+  },
+  {
+    "character": "間",
+    "unicode": "U+9593",
+    "sheet": "03",
+    "cell": 3,
+    "ink_pixels": 6405,
+    "edge_ink": false,
+    "contours": 13
+  },
+  {
+    "character": "丸",
+    "unicode": "U+4E38",
+    "sheet": "03",
+    "cell": 4,
+    "ink_pixels": 4851,
+    "edge_ink": false,
+    "contours": 3
+  },
+  {
+    "character": "岩",
+    "unicode": "U+5CA9",
+    "sheet": "03",
+    "cell": 5,
+    "ink_pixels": 6511,
+    "edge_ink": false,
+    "contours": 12
+  },
+  {
+    "character": "顔",
+    "unicode": "U+9854",
+    "sheet": "03",
+    "cell": 6,
+    "ink_pixels": 7056,
+    "edge_ink": false,
+    "contours": 20
+  },
+  {
+    "character": "汽",
+    "unicode": "U+6C7D",
+    "sheet": "03",
+    "cell": 7,
+    "ink_pixels": 5223,
+    "edge_ink": false,
+    "contours": 13
+  },
+  {
+    "character": "記",
+    "unicode": "U+8A18",
+    "sheet": "03",
+    "cell": 8,
+    "ink_pixels": 6159,
+    "edge_ink": false,
+    "contours": 6
+  },
+  {
+    "character": "帰",
+    "unicode": "U+5E30",
+    "sheet": "03",
+    "cell": 9,
+    "ink_pixels": 7012,
+    "edge_ink": false,
+    "contours": 7
+  },
+  {
+    "character": "弓",
+    "unicode": "U+5F13",
+    "sheet": "03",
+    "cell": 10,
+    "ink_pixels": 4218,
+    "edge_ink": false,
+    "contours": 6
+  },
+  {
+    "character": "牛",
+    "unicode": "U+725B",
+    "sheet": "03",
+    "cell": 11,
+    "ink_pixels": 5265,
+    "edge_ink": false,
+    "contours": 3
+  },
+  {
+    "character": "魚",
+    "unicode": "U+9B5A",
+    "sheet": "03",
+    "cell": 12,
+    "ink_pixels": 6318,
+    "edge_ink": false,
+    "contours": 15
+  },
+  {
+    "character": "京",
+    "unicode": "U+4EAC",
+    "sheet": "03",
+    "cell": 13,
+    "ink_pixels": 5333,
+    "edge_ink": false,
+    "contours": 13
+  },
+  {
+    "character": "強",
+    "unicode": "U+5F37",
+    "sheet": "03",
+    "cell": 14,
+    "ink_pixels": 7038,
+    "edge_ink": false,
+    "contours": 14
+  },
+  {
+    "character": "教",
+    "unicode": "U+6559",
+    "sheet": "03",
+    "cell": 15,
+    "ink_pixels": 6699,
+    "edge_ink": false,
+    "contours": 17
+  },
+  {
+    "character": "近",
+    "unicode": "U+8FD1",
+    "sheet": "03",
+    "cell": 16,
+    "ink_pixels": 5403,
+    "edge_ink": false,
+    "contours": 4
+  },
+  {
+    "character": "兄",
+    "unicode": "U+5144",
+    "sheet": "03",
+    "cell": 17,
+    "ink_pixels": 4960,
+    "edge_ink": false,
+    "contours": 6
+  },
+  {
+    "character": "形",
+    "unicode": "U+5F62",
+    "sheet": "03",
+    "cell": 18,
+    "ink_pixels": 5724,
+    "edge_ink": false,
+    "contours": 12
+  },
+  {
+    "character": "計",
+    "unicode": "U+8A08",
+    "sheet": "03",
+    "cell": 19,
+    "ink_pixels": 5551,
+    "edge_ink": false,
+    "contours": 8
+  },
+  {
+    "character": "元",
+    "unicode": "U+5143",
+    "sheet": "03",
+    "cell": 20,
+    "ink_pixels": 5240,
+    "edge_ink": false,
+    "contours": 5
+  },
+  {
+    "character": "言",
+    "unicode": "U+8A00",
+    "sheet": "03",
+    "cell": 21,
+    "ink_pixels": 5144,
+    "edge_ink": false,
+    "contours": 8
+  },
+  {
+    "character": "原",
+    "unicode": "U+539F",
+    "sheet": "03",
+    "cell": 22,
+    "ink_pixels": 6212,
+    "edge_ink": false,
+    "contours": 13
+  },
+  {
+    "character": "戸",
+    "unicode": "U+6238",
+    "sheet": "03",
+    "cell": 23,
+    "ink_pixels": 3958,
+    "edge_ink": false,
+    "contours": 6
+  },
+  {
+    "character": "古",
+    "unicode": "U+53E4",
+    "sheet": "03",
+    "cell": 24,
+    "ink_pixels": 5081,
+    "edge_ink": false,
+    "contours": 7
+  },
+  {
+    "character": "午",
+    "unicode": "U+5348",
+    "sheet": "03",
+    "cell": 25,
+    "ink_pixels": 4408,
+    "edge_ink": false,
+    "contours": 1
+  },
+  {
+    "character": "後",
+    "unicode": "U+5F8C",
+    "sheet": "03",
+    "cell": 26,
+    "ink_pixels": 6426,
+    "edge_ink": false,
+    "contours": 14
+  },
+  {
+    "character": "語",
+    "unicode": "U+8A9E",
+    "sheet": "03",
+    "cell": 27,
+    "ink_pixels": 6809,
+    "edge_ink": false,
+    "contours": 11
+  },
+  {
+    "character": "工",
+    "unicode": "U+5DE5",
+    "sheet": "03",
+    "cell": 28,
+    "ink_pixels": 3809,
+    "edge_ink": false,
+    "contours": 4
+  },
+  {
+    "character": "公",
+    "unicode": "U+516C",
+    "sheet": "03",
+    "cell": 29,
+    "ink_pixels": 4552,
+    "edge_ink": false,
+    "contours": 9
+  },
+  {
+    "character": "広",
+    "unicode": "U+5E83",
+    "sheet": "03",
+    "cell": 30,
+    "ink_pixels": 4845,
+    "edge_ink": false,
+    "contours": 9
+  },
+  {
+    "character": "交",
+    "unicode": "U+4EA4",
+    "sheet": "03",
+    "cell": 31,
+    "ink_pixels": 5313,
+    "edge_ink": false,
+    "contours": 14
+  },
+  {
+    "character": "光",
+    "unicode": "U+5149",
+    "sheet": "03",
+    "cell": 32,
+    "ink_pixels": 5421,
+    "edge_ink": false,
+    "contours": 9
+  },
+  {
+    "character": "考",
+    "unicode": "U+8003",
+    "sheet": "03",
+    "cell": 33,
+    "ink_pixels": 5350,
+    "edge_ink": false,
+    "contours": 7
+  },
+  {
+    "character": "行",
+    "unicode": "U+884C",
+    "sheet": "03",
+    "cell": 34,
+    "ink_pixels": 4568,
+    "edge_ink": false,
+    "contours": 9
+  },
+  {
+    "character": "高",
+    "unicode": "U+9AD8",
+    "sheet": "03",
+    "cell": 35,
+    "ink_pixels": 5694,
+    "edge_ink": false,
+    "contours": 9
+  },
+  {
+    "character": "黄",
+    "unicode": "U+9EC4",
+    "sheet": "03",
+    "cell": 36,
+    "ink_pixels": 5791,
+    "edge_ink": false,
+    "contours": 17
+  },
+  {
+    "character": "合",
+    "unicode": "U+5408",
+    "sheet": "03",
+    "cell": 37,
+    "ink_pixels": 5130,
+    "edge_ink": false,
+    "contours": 7
+  },
+  {
+    "character": "谷",
+    "unicode": "U+8C37",
+    "sheet": "03",
+    "cell": 38,
+    "ink_pixels": 5116,
+    "edge_ink": false,
+    "contours": 12
+  },
+  {
+    "character": "国",
+    "unicode": "U+56FD",
+    "sheet": "03",
+    "cell": 39,
+    "ink_pixels": 6684,
+    "edge_ink": false,
+    "contours": 4
+  },
+  {
+    "character": "黒",
+    "unicode": "U+9ED2",
+    "sheet": "03",
+    "cell": 40,
+    "ink_pixels": 6117,
+    "edge_ink": false,
+    "contours": 21
+  },
+  {
+    "character": "今",
+    "unicode": "U+4ECA",
+    "sheet": "03",
+    "cell": 41,
+    "ink_pixels": 4099,
+    "edge_ink": false,
+    "contours": 4
+  },
+  {
+    "character": "才",
+    "unicode": "U+624D",
+    "sheet": "03",
+    "cell": 42,
+    "ink_pixels": 4163,
+    "edge_ink": false,
+    "contours": 4
+  },
+  {
+    "character": "細",
+    "unicode": "U+7D30",
+    "sheet": "03",
+    "cell": 43,
+    "ink_pixels": 6603,
+    "edge_ink": false,
+    "contours": 11
+  },
+  {
+    "character": "作",
+    "unicode": "U+4F5C",
+    "sheet": "03",
+    "cell": 44,
+    "ink_pixels": 5220,
+    "edge_ink": false,
+    "contours": 5
+  },
+  {
+    "character": "算",
+    "unicode": "U+7B97",
+    "sheet": "03",
+    "cell": 45,
+    "ink_pixels": 5887,
+    "edge_ink": false,
+    "contours": 9
+  },
+  {
+    "character": "止",
+    "unicode": "U+6B62",
+    "sheet": "03",
+    "cell": 46,
+    "ink_pixels": 4499,
+    "edge_ink": false,
+    "contours": 8
+  },
+  {
+    "character": "市",
+    "unicode": "U+5E02",
+    "sheet": "03",
+    "cell": 47,
+    "ink_pixels": 4879,
+    "edge_ink": false,
+    "contours": 5
+  },
+  {
+    "character": "矢",
+    "unicode": "U+77E2",
+    "sheet": "04",
+    "cell": 0,
+    "ink_pixels": 4723,
+    "edge_ink": false,
+    "contours": 6
+  },
+  {
+    "character": "姉",
+    "unicode": "U+59C9",
+    "sheet": "04",
+    "cell": 1,
+    "ink_pixels": 6539,
+    "edge_ink": false,
+    "contours": 4
+  },
+  {
+    "character": "思",
+    "unicode": "U+601D",
+    "sheet": "04",
+    "cell": 2,
+    "ink_pixels": 6046,
+    "edge_ink": false,
+    "contours": 16
+  },
+  {
+    "character": "紙",
+    "unicode": "U+7D19",
+    "sheet": "04",
+    "cell": 3,
+    "ink_pixels": 6540,
+    "edge_ink": false,
+    "contours": 9
+  },
+  {
+    "character": "寺",
+    "unicode": "U+5BFA",
+    "sheet": "04",
+    "cell": 4,
+    "ink_pixels": 4967,
+    "edge_ink": false,
+    "contours": 6
+  },
+  {
+    "character": "自",
+    "unicode": "U+81EA",
+    "sheet": "04",
+    "cell": 5,
+    "ink_pixels": 4875,
+    "edge_ink": false,
+    "contours": 6
+  },
+  {
+    "character": "時",
+    "unicode": "U+6642",
+    "sheet": "04",
+    "cell": 6,
+    "ink_pixels": 7250,
+    "edge_ink": false,
+    "contours": 9
+  },
+  {
+    "character": "室",
+    "unicode": "U+5BA4",
+    "sheet": "04",
+    "cell": 7,
+    "ink_pixels": 5753,
+    "edge_ink": false,
+    "contours": 6
+  },
+  {
+    "character": "社",
+    "unicode": "U+793E",
+    "sheet": "04",
+    "cell": 8,
+    "ink_pixels": 6054,
+    "edge_ink": false,
+    "contours": 12
+  },
+  {
+    "character": "弱",
+    "unicode": "U+5F31",
+    "sheet": "04",
+    "cell": 9,
+    "ink_pixels": 7266,
+    "edge_ink": false,
+    "contours": 5
+  },
+  {
+    "character": "首",
+    "unicode": "U+9996",
+    "sheet": "04",
+    "cell": 10,
+    "ink_pixels": 6146,
+    "edge_ink": false,
+    "contours": 5
+  },
+  {
+    "character": "秋",
+    "unicode": "U+79CB",
+    "sheet": "04",
+    "cell": 11,
+    "ink_pixels": 6246,
+    "edge_ink": false,
+    "contours": 10
+  },
+  {
+    "character": "週",
+    "unicode": "U+9031",
+    "sheet": "04",
+    "cell": 12,
+    "ink_pixels": 7227,
+    "edge_ink": false,
+    "contours": 8
+  },
+  {
+    "character": "春",
+    "unicode": "U+6625",
+    "sheet": "04",
+    "cell": 13,
+    "ink_pixels": 6966,
+    "edge_ink": false,
+    "contours": 11
+  },
+  {
+    "character": "書",
+    "unicode": "U+66F8",
+    "sheet": "04",
+    "cell": 14,
+    "ink_pixels": 6831,
+    "edge_ink": false,
+    "contours": 10
+  },
+  {
+    "character": "少",
+    "unicode": "U+5C11",
+    "sheet": "04",
+    "cell": 15,
+    "ink_pixels": 4022,
+    "edge_ink": false,
+    "contours": 7
+  },
+  {
+    "character": "場",
+    "unicode": "U+5834",
+    "sheet": "04",
+    "cell": 16,
+    "ink_pixels": 7134,
+    "edge_ink": false,
+    "contours": 11
+  },
+  {
+    "character": "色",
+    "unicode": "U+8272",
+    "sheet": "04",
+    "cell": 17,
+    "ink_pixels": 5139,
+    "edge_ink": false,
+    "contours": 9
+  },
+  {
+    "character": "食",
+    "unicode": "U+98DF",
+    "sheet": "04",
+    "cell": 18,
+    "ink_pixels": 6191,
+    "edge_ink": false,
+    "contours": 12
+  },
+  {
+    "character": "心",
+    "unicode": "U+5FC3",
+    "sheet": "04",
+    "cell": 19,
+    "ink_pixels": 3867,
+    "edge_ink": false,
+    "contours": 6
+  },
+  {
+    "character": "新",
+    "unicode": "U+65B0",
+    "sheet": "04",
+    "cell": 20,
+    "ink_pixels": 7023,
+    "edge_ink": false,
+    "contours": 10
+  },
+  {
+    "character": "親",
+    "unicode": "U+89AA",
+    "sheet": "04",
+    "cell": 21,
+    "ink_pixels": 7721,
+    "edge_ink": false,
+    "contours": 10
+  },
+  {
+    "character": "図",
+    "unicode": "U+56F3",
+    "sheet": "04",
+    "cell": 22,
+    "ink_pixels": 6703,
+    "edge_ink": false,
+    "contours": 5
+  },
+  {
+    "character": "数",
+    "unicode": "U+6570",
+    "sheet": "04",
+    "cell": 23,
+    "ink_pixels": 6307,
+    "edge_ink": false,
+    "contours": 12
+  },
+  {
+    "character": "西",
+    "unicode": "U+897F",
+    "sheet": "04",
+    "cell": 24,
+    "ink_pixels": 6353,
+    "edge_ink": false,
+    "contours": 5
+  },
+  {
+    "character": "声",
+    "unicode": "U+58F0",
+    "sheet": "04",
+    "cell": 25,
+    "ink_pixels": 5216,
+    "edge_ink": false,
+    "contours": 10
+  },
+  {
+    "character": "星",
+    "unicode": "U+661F",
+    "sheet": "04",
+    "cell": 26,
+    "ink_pixels": 6416,
+    "edge_ink": false,
+    "contours": 9
+  },
+  {
+    "character": "晴",
+    "unicode": "U+6674",
+    "sheet": "04",
+    "cell": 27,
+    "ink_pixels": 6889,
+    "edge_ink": false,
+    "contours": 8
+  },
+  {
+    "character": "切",
+    "unicode": "U+5207",
+    "sheet": "04",
+    "cell": 28,
+    "ink_pixels": 5237,
+    "edge_ink": false,
+    "contours": 4
+  },
+  {
+    "character": "雪",
+    "unicode": "U+96EA",
+    "sheet": "04",
+    "cell": 29,
+    "ink_pixels": 6692,
+    "edge_ink": false,
+    "contours": 11
+  },
+  {
+    "character": "船",
+    "unicode": "U+8239",
+    "sheet": "04",
+    "cell": 30,
+    "ink_pixels": 6694,
+    "edge_ink": false,
+    "contours": 17
+  },
+  {
+    "character": "線",
+    "unicode": "U+7DDA",
+    "sheet": "04",
+    "cell": 31,
+    "ink_pixels": 7203,
+    "edge_ink": false,
+    "contours": 17
+  },
+  {
+    "character": "前",
+    "unicode": "U+524D",
+    "sheet": "04",
+    "cell": 32,
+    "ink_pixels": 6433,
+    "edge_ink": false,
+    "contours": 8
+  },
+  {
+    "character": "組",
+    "unicode": "U+7D44",
+    "sheet": "04",
+    "cell": 33,
+    "ink_pixels": 7062,
+    "edge_ink": false,
+    "contours": 13
+  },
+  {
+    "character": "走",
+    "unicode": "U+8D70",
+    "sheet": "04",
+    "cell": 34,
+    "ink_pixels": 4962,
+    "edge_ink": false,
+    "contours": 5
+  },
+  {
+    "character": "多",
+    "unicode": "U+591A",
+    "sheet": "04",
+    "cell": 35,
+    "ink_pixels": 4677,
+    "edge_ink": false,
+    "contours": 9
+  },
+  {
+    "character": "太",
+    "unicode": "U+592A",
+    "sheet": "04",
+    "cell": 36,
+    "ink_pixels": 4413,
+    "edge_ink": false,
+    "contours": 10
+  },
+  {
+    "character": "体",
+    "unicode": "U+4F53",
+    "sheet": "04",
+    "cell": 37,
+    "ink_pixels": 5874,
+    "edge_ink": false,
+    "contours": 7
+  },
+  {
+    "character": "台",
+    "unicode": "U+53F0",
+    "sheet": "04",
+    "cell": 38,
+    "ink_pixels": 4408,
+    "edge_ink": false,
+    "contours": 8
+  },
+  {
+    "character": "地",
+    "unicode": "U+5730",
+    "sheet": "04",
+    "cell": 39,
+    "ink_pixels": 5719,
+    "edge_ink": false,
+    "contours": 8
+  },
+  {
+    "character": "池",
+    "unicode": "U+6C60",
+    "sheet": "04",
+    "cell": 40,
+    "ink_pixels": 5642,
+    "edge_ink": false,
+    "contours": 12
+  },
+  {
+    "character": "知",
+    "unicode": "U+77E5",
+    "sheet": "04",
+    "cell": 41,
+    "ink_pixels": 5109,
+    "edge_ink": false,
+    "contours": 8
+  },
+  {
+    "character": "茶",
+    "unicode": "U+8336",
+    "sheet": "04",
+    "cell": 42,
+    "ink_pixels": 5658,
+    "edge_ink": false,
+    "contours": 10
+  },
+  {
+    "character": "昼",
+    "unicode": "U+663C",
+    "sheet": "04",
+    "cell": 43,
+    "ink_pixels": 5953,
+    "edge_ink": false,
+    "contours": 9
+  },
+  {
+    "character": "長",
+    "unicode": "U+9577",
+    "sheet": "04",
+    "cell": 44,
+    "ink_pixels": 5104,
+    "edge_ink": false,
+    "contours": 8
+  },
+  {
+    "character": "鳥",
+    "unicode": "U+9CE5",
+    "sheet": "04",
+    "cell": 45,
+    "ink_pixels": 5791,
+    "edge_ink": false,
+    "contours": 9
+  },
+  {
+    "character": "朝",
+    "unicode": "U+671D",
+    "sheet": "04",
+    "cell": 46,
+    "ink_pixels": 6430,
+    "edge_ink": false,
+    "contours": 6
+  },
+  {
+    "character": "直",
+    "unicode": "U+76F4",
+    "sheet": "04",
+    "cell": 47,
+    "ink_pixels": 5919,
+    "edge_ink": false,
+    "contours": 10
+  },
+  {
+    "character": "通",
+    "unicode": "U+901A",
+    "sheet": "05",
+    "cell": 0,
+    "ink_pixels": 6030,
+    "edge_ink": false,
+    "contours": 16
+  },
+  {
+    "character": "弟",
+    "unicode": "U+5F1F",
+    "sheet": "05",
+    "cell": 1,
+    "ink_pixels": 5375,
+    "edge_ink": false,
+    "contours": 8
+  },
+  {
+    "character": "店",
+    "unicode": "U+5E97",
+    "sheet": "05",
+    "cell": 2,
+    "ink_pixels": 5434,
+    "edge_ink": false,
+    "contours": 6
+  },
+  {
+    "character": "点",
+    "unicode": "U+70B9",
+    "sheet": "05",
+    "cell": 3,
+    "ink_pixels": 4483,
+    "edge_ink": false,
+    "contours": 14
+  },
+  {
+    "character": "電",
+    "unicode": "U+96FB",
+    "sheet": "05",
+    "cell": 4,
+    "ink_pixels": 6346,
+    "edge_ink": false,
+    "contours": 13
+  },
+  {
+    "character": "刀",
+    "unicode": "U+5200",
+    "sheet": "05",
+    "cell": 5,
+    "ink_pixels": 4387,
+    "edge_ink": false,
+    "contours": 5
+  },
+  {
+    "character": "冬",
+    "unicode": "U+51AC",
+    "sheet": "05",
+    "cell": 6,
+    "ink_pixels": 3667,
+    "edge_ink": false,
+    "contours": 7
+  },
+  {
+    "character": "当",
+    "unicode": "U+5F53",
+    "sheet": "05",
+    "cell": 7,
+    "ink_pixels": 5459,
+    "edge_ink": false,
+    "contours": 11
+  },
+  {
+    "character": "東",
+    "unicode": "U+6771",
+    "sheet": "05",
+    "cell": 8,
+    "ink_pixels": 6063,
+    "edge_ink": false,
+    "contours": 10
+  },
+  {
+    "character": "答",
+    "unicode": "U+7B54",
+    "sheet": "05",
+    "cell": 9,
+    "ink_pixels": 5283,
+    "edge_ink": false,
+    "contours": 11
+  },
+  {
+    "character": "頭",
+    "unicode": "U+982D",
+    "sheet": "05",
+    "cell": 10,
+    "ink_pixels": 6752,
+    "edge_ink": false,
+    "contours": 17
+  },
+  {
+    "character": "同",
+    "unicode": "U+540C",
+    "sheet": "05",
+    "cell": 11,
+    "ink_pixels": 5550,
+    "edge_ink": false,
+    "contours": 5
+  },
+  {
+    "character": "道",
+    "unicode": "U+9053",
+    "sheet": "05",
+    "cell": 12,
+    "ink_pixels": 5966,
+    "edge_ink": false,
+    "contours": 10
+  },
+  {
+    "character": "読",
+    "unicode": "U+8AAD",
+    "sheet": "05",
+    "cell": 13,
+    "ink_pixels": 6242,
+    "edge_ink": false,
+    "contours": 18
+  },
+  {
+    "character": "内",
+    "unicode": "U+5185",
+    "sheet": "05",
+    "cell": 14,
+    "ink_pixels": 5064,
+    "edge_ink": false,
+    "contours": 4
+  },
+  {
+    "character": "南",
+    "unicode": "U+5357",
+    "sheet": "05",
+    "cell": 15,
+    "ink_pixels": 5723,
+    "edge_ink": false,
+    "contours": 5
+  },
+  {
+    "character": "肉",
+    "unicode": "U+8089",
+    "sheet": "05",
+    "cell": 16,
+    "ink_pixels": 5391,
+    "edge_ink": false,
+    "contours": 9
+  },
+  {
+    "character": "馬",
+    "unicode": "U+99AC",
+    "sheet": "05",
+    "cell": 17,
+    "ink_pixels": 5798,
+    "edge_ink": false,
+    "contours": 14
+  },
+  {
+    "character": "売",
+    "unicode": "U+58F2",
+    "sheet": "05",
+    "cell": 18,
+    "ink_pixels": 5288,
+    "edge_ink": false,
+    "contours": 10
+  },
+  {
+    "character": "買",
+    "unicode": "U+8CB7",
+    "sheet": "05",
+    "cell": 19,
+    "ink_pixels": 5493,
+    "edge_ink": false,
+    "contours": 11
+  },
+  {
+    "character": "麦",
+    "unicode": "U+9EA6",
+    "sheet": "05",
+    "cell": 20,
+    "ink_pixels": 5594,
+    "edge_ink": false,
+    "contours": 9
+  },
+  {
+    "character": "半",
+    "unicode": "U+534A",
+    "sheet": "05",
+    "cell": 21,
+    "ink_pixels": 4256,
+    "edge_ink": false,
+    "contours": 9
+  },
+  {
+    "character": "番",
+    "unicode": "U+756A",
+    "sheet": "05",
+    "cell": 22,
+    "ink_pixels": 6278,
+    "edge_ink": false,
+    "contours": 12
+  },
+  {
+    "character": "父",
+    "unicode": "U+7236",
+    "sheet": "05",
+    "cell": 23,
+    "ink_pixels": 4434,
+    "edge_ink": false,
+    "contours": 5
+  },
+  {
+    "character": "風",
+    "unicode": "U+98A8",
+    "sheet": "05",
+    "cell": 24,
+    "ink_pixels": 6161,
+    "edge_ink": false,
+    "contours": 8
+  },
+  {
+    "character": "分",
+    "unicode": "U+5206",
+    "sheet": "05",
+    "cell": 25,
+    "ink_pixels": 4461,
+    "edge_ink": false,
+    "contours": 9
+  },
+  {
+    "character": "聞",
+    "unicode": "U+805E",
+    "sheet": "05",
+    "cell": 26,
+    "ink_pixels": 6851,
+    "edge_ink": false,
+    "contours": 10
+  },
+  {
+    "character": "米",
+    "unicode": "U+7C73",
+    "sheet": "05",
+    "cell": 27,
+    "ink_pixels": 5511,
+    "edge_ink": false,
+    "contours": 11
+  },
+  {
+    "character": "歩",
+    "unicode": "U+6B69",
+    "sheet": "05",
+    "cell": 28,
+    "ink_pixels": 5304,
+    "edge_ink": false,
+    "contours": 10
+  },
+  {
+    "character": "母",
+    "unicode": "U+6BCD",
+    "sheet": "05",
+    "cell": 29,
+    "ink_pixels": 5716,
+    "edge_ink": false,
+    "contours": 7
+  },
+  {
+    "character": "方",
+    "unicode": "U+65B9",
+    "sheet": "05",
+    "cell": 30,
+    "ink_pixels": 4030,
+    "edge_ink": false,
+    "contours": 6
+  },
+  {
+    "character": "北",
+    "unicode": "U+5317",
+    "sheet": "05",
+    "cell": 31,
+    "ink_pixels": 5150,
+    "edge_ink": false,
+    "contours": 8
+  },
+  {
+    "character": "毎",
+    "unicode": "U+6BCE",
+    "sheet": "05",
+    "cell": 32,
+    "ink_pixels": 5792,
+    "edge_ink": false,
+    "contours": 12
+  },
+  {
+    "character": "妹",
+    "unicode": "U+59B9",
+    "sheet": "05",
+    "cell": 33,
+    "ink_pixels": 5788,
+    "edge_ink": false,
+    "contours": 7
+  },
+  {
+    "character": "万",
+    "unicode": "U+4E07",
+    "sheet": "05",
+    "cell": 34,
+    "ink_pixels": 4521,
+    "edge_ink": false,
+    "contours": 4
+  },
+  {
+    "character": "明",
+    "unicode": "U+660E",
+    "sheet": "05",
+    "cell": 35,
+    "ink_pixels": 6018,
+    "edge_ink": false,
+    "contours": 7
+  },
+  {
+    "character": "鳴",
+    "unicode": "U+9CF4",
+    "sheet": "05",
+    "cell": 36,
+    "ink_pixels": 5848,
+    "edge_ink": false,
+    "contours": 19
+  },
+  {
+    "character": "毛",
+    "unicode": "U+6BDB",
+    "sheet": "05",
+    "cell": 37,
+    "ink_pixels": 4227,
+    "edge_ink": false,
+    "contours": 4
+  },
+  {
+    "character": "門",
+    "unicode": "U+9580",
+    "sheet": "05",
+    "cell": 38,
+    "ink_pixels": 4615,
+    "edge_ink": false,
+    "contours": 6
+  },
+  {
+    "character": "夜",
+    "unicode": "U+591C",
+    "sheet": "05",
+    "cell": 39,
+    "ink_pixels": 5325,
+    "edge_ink": false,
+    "contours": 11
+  },
+  {
+    "character": "野",
+    "unicode": "U+91CE",
+    "sheet": "05",
+    "cell": 40,
+    "ink_pixels": 6210,
+    "edge_ink": false,
+    "contours": 7
+  },
+  {
+    "character": "友",
+    "unicode": "U+53CB",
+    "sheet": "05",
+    "cell": 41,
+    "ink_pixels": 4789,
+    "edge_ink": false,
+    "contours": 6
+  },
+  {
+    "character": "用",
+    "unicode": "U+7528",
+    "sheet": "05",
+    "cell": 42,
+    "ink_pixels": 4941,
+    "edge_ink": false,
+    "contours": 3
+  },
+  {
+    "character": "曜",
+    "unicode": "U+66DC",
+    "sheet": "05",
+    "cell": 43,
+    "ink_pixels": 6705,
+    "edge_ink": false,
+    "contours": 13
+  },
+  {
+    "character": "来",
+    "unicode": "U+6765",
+    "sheet": "05",
+    "cell": 44,
+    "ink_pixels": 5197,
+    "edge_ink": false,
+    "contours": 11
+  },
+  {
+    "character": "里",
+    "unicode": "U+91CC",
+    "sheet": "05",
+    "cell": 45,
+    "ink_pixels": 4662,
+    "edge_ink": false,
+    "contours": 8
+  },
+  {
+    "character": "理",
+    "unicode": "U+7406",
+    "sheet": "05",
+    "cell": 46,
+    "ink_pixels": 5372,
+    "edge_ink": false,
+    "contours": 7
+  },
+  {
+    "character": "話",
+    "unicode": "U+8A71",
+    "sheet": "05",
+    "cell": 47,
+    "ink_pixels": 6107,
+    "edge_ink": false,
+    "contours": 13
+  },
+  {
+    "character": "ぁ",
+    "unicode": "U+3041",
+    "sheet": "06",
+    "cell": 0,
+    "ink_pixels": 3278,
+    "edge_ink": false,
+    "contours": 5
+  },
+  {
+    "character": "あ",
+    "unicode": "U+3042",
+    "sheet": "06",
+    "cell": 1,
+    "ink_pixels": 5685,
+    "edge_ink": false,
+    "contours": 7
+  },
+  {
+    "character": "ぃ",
+    "unicode": "U+3043",
+    "sheet": "06",
+    "cell": 2,
+    "ink_pixels": 2379,
+    "edge_ink": false,
+    "contours": 4
+  },
+  {
+    "character": "い",
+    "unicode": "U+3044",
+    "sheet": "06",
+    "cell": 3,
+    "ink_pixels": 3304,
+    "edge_ink": false,
+    "contours": 4
+  },
+  {
+    "character": "ぅ",
+    "unicode": "U+3045",
+    "sheet": "06",
+    "cell": 4,
+    "ink_pixels": 2163,
+    "edge_ink": false,
+    "contours": 3
+  },
+  {
+    "character": "う",
+    "unicode": "U+3046",
+    "sheet": "06",
+    "cell": 5,
+    "ink_pixels": 3991,
+    "edge_ink": false,
+    "contours": 4
+  },
+  {
+    "character": "ぇ",
+    "unicode": "U+3047",
+    "sheet": "06",
+    "cell": 6,
+    "ink_pixels": 2838,
+    "edge_ink": false,
+    "contours": 6
+  },
+  {
+    "character": "え",
+    "unicode": "U+3048",
+    "sheet": "06",
+    "cell": 7,
+    "ink_pixels": 4361,
+    "edge_ink": false,
+    "contours": 6
+  },
+  {
+    "character": "ぉ",
+    "unicode": "U+3049",
+    "sheet": "06",
+    "cell": 8,
+    "ink_pixels": 3441,
+    "edge_ink": false,
+    "contours": 6
+  },
+  {
+    "character": "お",
+    "unicode": "U+304A",
+    "sheet": "06",
+    "cell": 9,
+    "ink_pixels": 5980,
+    "edge_ink": false,
+    "contours": 7
+  },
+  {
+    "character": "か",
+    "unicode": "U+304B",
+    "sheet": "06",
+    "cell": 10,
+    "ink_pixels": 4618,
+    "edge_ink": false,
+    "contours": 6
+  },
+  {
+    "character": "が",
+    "unicode": "U+304C",
+    "sheet": "06",
+    "cell": 11,
+    "ink_pixels": 5409,
+    "edge_ink": false,
+    "contours": 14
+  },
+  {
+    "character": "き",
+    "unicode": "U+304D",
+    "sheet": "06",
+    "cell": 12,
+    "ink_pixels": 4803,
+    "edge_ink": false,
+    "contours": 3
+  },
+  {
+    "character": "ぎ",
+    "unicode": "U+304E",
+    "sheet": "06",
+    "cell": 13,
+    "ink_pixels": 5536,
+    "edge_ink": false,
+    "contours": 9
+  },
+  {
+    "character": "く",
+    "unicode": "U+304F",
+    "sheet": "06",
+    "cell": 14,
+    "ink_pixels": 3032,
+    "edge_ink": false,
+    "contours": 3
+  },
+  {
+    "character": "ぐ",
+    "unicode": "U+3050",
+    "sheet": "06",
+    "cell": 15,
+    "ink_pixels": 3518,
+    "edge_ink": false,
+    "contours": 10
+  },
+  {
+    "character": "け",
+    "unicode": "U+3051",
+    "sheet": "06",
+    "cell": 16,
+    "ink_pixels": 4741,
+    "edge_ink": false,
+    "contours": 6
+  },
+  {
+    "character": "げ",
+    "unicode": "U+3052",
+    "sheet": "06",
+    "cell": 17,
+    "ink_pixels": 5186,
+    "edge_ink": false,
+    "contours": 12
+  },
+  {
+    "character": "こ",
+    "unicode": "U+3053",
+    "sheet": "06",
+    "cell": 18,
+    "ink_pixels": 3410,
+    "edge_ink": false,
+    "contours": 4
+  },
+  {
+    "character": "ご",
+    "unicode": "U+3054",
+    "sheet": "06",
+    "cell": 19,
+    "ink_pixels": 3777,
+    "edge_ink": false,
+    "contours": 10
+  },
+  {
+    "character": "さ",
+    "unicode": "U+3055",
+    "sheet": "06",
+    "cell": 20,
+    "ink_pixels": 4265,
+    "edge_ink": false,
+    "contours": 7
+  },
+  {
+    "character": "ざ",
+    "unicode": "U+3056",
+    "sheet": "06",
+    "cell": 21,
+    "ink_pixels": 4906,
+    "edge_ink": false,
+    "contours": 13
+  },
+  {
+    "character": "し",
+    "unicode": "U+3057",
+    "sheet": "06",
+    "cell": 22,
+    "ink_pixels": 3530,
+    "edge_ink": false,
+    "contours": 5
+  },
+  {
+    "character": "じ",
+    "unicode": "U+3058",
+    "sheet": "06",
+    "cell": 23,
+    "ink_pixels": 3941,
+    "edge_ink": false,
+    "contours": 8
+  },
+  {
+    "character": "す",
+    "unicode": "U+3059",
+    "sheet": "06",
+    "cell": 24,
+    "ink_pixels": 4283,
+    "edge_ink": false,
+    "contours": 7
+  },
+  {
+    "character": "ず",
+    "unicode": "U+305A",
+    "sheet": "06",
+    "cell": 25,
+    "ink_pixels": 4163,
+    "edge_ink": false,
+    "contours": 12
+  },
+  {
+    "character": "せ",
+    "unicode": "U+305B",
+    "sheet": "06",
+    "cell": 26,
+    "ink_pixels": 4594,
+    "edge_ink": false,
+    "contours": 6
+  },
+  {
+    "character": "ぜ",
+    "unicode": "U+305C",
+    "sheet": "06",
+    "cell": 27,
+    "ink_pixels": 5567,
+    "edge_ink": false,
+    "contours": 11
+  },
+  {
+    "character": "そ",
+    "unicode": "U+305D",
+    "sheet": "06",
+    "cell": 28,
+    "ink_pixels": 4342,
+    "edge_ink": false,
+    "contours": 8
+  },
+  {
+    "character": "ぞ",
+    "unicode": "U+305E",
+    "sheet": "06",
+    "cell": 29,
+    "ink_pixels": 4682,
+    "edge_ink": false,
+    "contours": 10
+  },
+  {
+    "character": "た",
+    "unicode": "U+305F",
+    "sheet": "06",
+    "cell": 30,
+    "ink_pixels": 4869,
+    "edge_ink": false,
+    "contours": 9
+  },
+  {
+    "character": "だ",
+    "unicode": "U+3060",
+    "sheet": "06",
+    "cell": 31,
+    "ink_pixels": 5095,
+    "edge_ink": false,
+    "contours": 15
+  },
+  {
+    "character": "ち",
+    "unicode": "U+3061",
+    "sheet": "06",
+    "cell": 32,
+    "ink_pixels": 4256,
+    "edge_ink": false,
+    "contours": 4
+  },
+  {
+    "character": "ぢ",
+    "unicode": "U+3062",
+    "sheet": "06",
+    "cell": 33,
+    "ink_pixels": 5085,
+    "edge_ink": false,
+    "contours": 10
+  },
+  {
+    "character": "っ",
+    "unicode": "U+3063",
+    "sheet": "06",
+    "cell": 34,
+    "ink_pixels": 2183,
+    "edge_ink": false,
+    "contours": 6
+  },
+  {
+    "character": "つ",
+    "unicode": "U+3064",
+    "sheet": "06",
+    "cell": 35,
+    "ink_pixels": 3147,
+    "edge_ink": false,
+    "contours": 4
+  },
+  {
+    "character": "づ",
+    "unicode": "U+3065",
+    "sheet": "06",
+    "cell": 36,
+    "ink_pixels": 4035,
+    "edge_ink": false,
+    "contours": 8
+  },
+  {
+    "character": "て",
+    "unicode": "U+3066",
+    "sheet": "06",
+    "cell": 37,
+    "ink_pixels": 3355,
+    "edge_ink": false,
+    "contours": 6
+  },
+  {
+    "character": "で",
+    "unicode": "U+3067",
+    "sheet": "06",
+    "cell": 38,
+    "ink_pixels": 3670,
+    "edge_ink": false,
+    "contours": 9
+  },
+  {
+    "character": "と",
+    "unicode": "U+3068",
+    "sheet": "06",
+    "cell": 39,
+    "ink_pixels": 3503,
+    "edge_ink": false,
+    "contours": 4
+  },
+  {
+    "character": "ど",
+    "unicode": "U+3069",
+    "sheet": "06",
+    "cell": 40,
+    "ink_pixels": 4074,
+    "edge_ink": false,
+    "contours": 9
+  },
+  {
+    "character": "な",
+    "unicode": "U+306A",
+    "sheet": "06",
+    "cell": 41,
+    "ink_pixels": 4992,
+    "edge_ink": false,
+    "contours": 9
+  },
+  {
+    "character": "に",
+    "unicode": "U+306B",
+    "sheet": "06",
+    "cell": 42,
+    "ink_pixels": 3487,
+    "edge_ink": false,
+    "contours": 6
+  },
+  {
+    "character": "ぬ",
+    "unicode": "U+306C",
+    "sheet": "06",
+    "cell": 43,
+    "ink_pixels": 4283,
+    "edge_ink": false,
+    "contours": 6
+  },
+  {
+    "character": "ね",
+    "unicode": "U+306D",
+    "sheet": "06",
+    "cell": 44,
+    "ink_pixels": 4739,
+    "edge_ink": false,
+    "contours": 7
+  },
+  {
+    "character": "の",
+    "unicode": "U+306E",
+    "sheet": "06",
+    "cell": 45,
+    "ink_pixels": 4211,
+    "edge_ink": false,
+    "contours": 5
+  },
+  {
+    "character": "は",
+    "unicode": "U+306F",
+    "sheet": "06",
+    "cell": 46,
+    "ink_pixels": 4849,
+    "edge_ink": false,
+    "contours": 8
+  },
+  {
+    "character": "ば",
+    "unicode": "U+3070",
+    "sheet": "06",
+    "cell": 47,
+    "ink_pixels": 5162,
+    "edge_ink": false,
+    "contours": 14
+  },
+  {
+    "character": "ぱ",
+    "unicode": "U+3071",
+    "sheet": "07",
+    "cell": 0,
+    "ink_pixels": 5745,
+    "edge_ink": false,
+    "contours": 12
+  },
+  {
+    "character": "ひ",
+    "unicode": "U+3072",
+    "sheet": "07",
+    "cell": 1,
+    "ink_pixels": 4278,
+    "edge_ink": false,
+    "contours": 12
+  },
+  {
+    "character": "び",
+    "unicode": "U+3073",
+    "sheet": "07",
+    "cell": 2,
+    "ink_pixels": 5372,
+    "edge_ink": false,
+    "contours": 19
+  },
+  {
+    "character": "ぴ",
+    "unicode": "U+3074",
+    "sheet": "07",
+    "cell": 3,
+    "ink_pixels": 5509,
+    "edge_ink": false,
+    "contours": 19
+  },
+  {
+    "character": "ふ",
+    "unicode": "U+3075",
+    "sheet": "07",
+    "cell": 4,
+    "ink_pixels": 3946,
+    "edge_ink": false,
+    "contours": 10
+  },
+  {
+    "character": "ぶ",
+    "unicode": "U+3076",
+    "sheet": "07",
+    "cell": 5,
+    "ink_pixels": 4911,
+    "edge_ink": false,
+    "contours": 13
+  },
+  {
+    "character": "ぷ",
+    "unicode": "U+3077",
+    "sheet": "07",
+    "cell": 6,
+    "ink_pixels": 4741,
+    "edge_ink": false,
+    "contours": 13
+  },
+  {
+    "character": "へ",
+    "unicode": "U+3078",
+    "sheet": "07",
+    "cell": 7,
+    "ink_pixels": 3237,
+    "edge_ink": false,
+    "contours": 8
+  },
+  {
+    "character": "べ",
+    "unicode": "U+3079",
+    "sheet": "07",
+    "cell": 8,
+    "ink_pixels": 3941,
+    "edge_ink": false,
+    "contours": 14
+  },
+  {
+    "character": "ぺ",
+    "unicode": "U+307A",
+    "sheet": "07",
+    "cell": 9,
+    "ink_pixels": 3991,
+    "edge_ink": false,
+    "contours": 8
+  },
+  {
+    "character": "ほ",
+    "unicode": "U+307B",
+    "sheet": "07",
+    "cell": 10,
+    "ink_pixels": 5667,
+    "edge_ink": false,
+    "contours": 10
+  },
+  {
+    "character": "ぼ",
+    "unicode": "U+307C",
+    "sheet": "07",
+    "cell": 11,
+    "ink_pixels": 5974,
+    "edge_ink": false,
+    "contours": 16
+  },
+  {
+    "character": "ぽ",
+    "unicode": "U+307D",
+    "sheet": "07",
+    "cell": 12,
+    "ink_pixels": 6193,
+    "edge_ink": false,
+    "contours": 14
+  },
+  {
+    "character": "ま",
+    "unicode": "U+307E",
+    "sheet": "07",
+    "cell": 13,
+    "ink_pixels": 4837,
+    "edge_ink": false,
+    "contours": 12
+  },
+  {
+    "character": "み",
+    "unicode": "U+307F",
+    "sheet": "07",
+    "cell": 14,
+    "ink_pixels": 5625,
+    "edge_ink": false,
+    "contours": 17
+  },
+  {
+    "character": "む",
+    "unicode": "U+3080",
+    "sheet": "07",
+    "cell": 15,
+    "ink_pixels": 5044,
+    "edge_ink": false,
+    "contours": 14
+  },
+  {
+    "character": "め",
+    "unicode": "U+3081",
+    "sheet": "07",
+    "cell": 16,
+    "ink_pixels": 6317,
+    "edge_ink": false,
+    "contours": 20
+  },
+  {
+    "character": "も",
+    "unicode": "U+3082",
+    "sheet": "07",
+    "cell": 17,
+    "ink_pixels": 4649,
+    "edge_ink": false,
+    "contours": 10
+  },
+  {
+    "character": "ゃ",
+    "unicode": "U+3083",
+    "sheet": "07",
+    "cell": 18,
+    "ink_pixels": 2841,
+    "edge_ink": false,
+    "contours": 5
+  },
+  {
+    "character": "や",
+    "unicode": "U+3084",
+    "sheet": "07",
+    "cell": 19,
+    "ink_pixels": 4464,
+    "edge_ink": false,
+    "contours": 8
+  },
+  {
+    "character": "ゅ",
+    "unicode": "U+3085",
+    "sheet": "07",
+    "cell": 20,
+    "ink_pixels": 3268,
+    "edge_ink": false,
+    "contours": 7
+  },
+  {
+    "character": "ゆ",
+    "unicode": "U+3086",
+    "sheet": "07",
+    "cell": 21,
+    "ink_pixels": 5820,
+    "edge_ink": false,
+    "contours": 15
+  },
+  {
+    "character": "ょ",
+    "unicode": "U+3087",
+    "sheet": "07",
+    "cell": 22,
+    "ink_pixels": 3048,
+    "edge_ink": false,
+    "contours": 7
+  },
+  {
+    "character": "よ",
+    "unicode": "U+3088",
+    "sheet": "07",
+    "cell": 23,
+    "ink_pixels": 4031,
+    "edge_ink": false,
+    "contours": 8
+  },
+  {
+    "character": "ら",
+    "unicode": "U+3089",
+    "sheet": "07",
+    "cell": 24,
+    "ink_pixels": 4181,
+    "edge_ink": false,
+    "contours": 10
+  },
+  {
+    "character": "り",
+    "unicode": "U+308A",
+    "sheet": "07",
+    "cell": 25,
+    "ink_pixels": 3798,
+    "edge_ink": false,
+    "contours": 9
+  },
+  {
+    "character": "る",
+    "unicode": "U+308B",
+    "sheet": "07",
+    "cell": 26,
+    "ink_pixels": 4873,
+    "edge_ink": false,
+    "contours": 14
+  },
+  {
+    "character": "れ",
+    "unicode": "U+308C",
+    "sheet": "07",
+    "cell": 27,
+    "ink_pixels": 5458,
+    "edge_ink": false,
+    "contours": 15
+  },
+  {
+    "character": "ろ",
+    "unicode": "U+308D",
+    "sheet": "07",
+    "cell": 28,
+    "ink_pixels": 4394,
+    "edge_ink": false,
+    "contours": 11
+  },
+  {
+    "character": "ゎ",
+    "unicode": "U+308E",
+    "sheet": "07",
+    "cell": 29,
+    "ink_pixels": 3973,
+    "edge_ink": false,
+    "contours": 12
+  },
+  {
+    "character": "わ",
+    "unicode": "U+308F",
+    "sheet": "07",
+    "cell": 30,
+    "ink_pixels": 5168,
+    "edge_ink": false,
+    "contours": 14
+  },
+  {
+    "character": "ゐ",
+    "unicode": "U+3090",
+    "sheet": "07",
+    "cell": 31,
+    "ink_pixels": 5852,
+    "edge_ink": false,
+    "contours": 16
+  },
+  {
+    "character": "ゑ",
+    "unicode": "U+3091",
+    "sheet": "07",
+    "cell": 32,
+    "ink_pixels": 5163,
+    "edge_ink": false,
+    "contours": 12
+  },
+  {
+    "character": "を",
+    "unicode": "U+3092",
+    "sheet": "07",
+    "cell": 33,
+    "ink_pixels": 4845,
+    "edge_ink": false,
+    "contours": 17
+  },
+  {
+    "character": "ん",
+    "unicode": "U+3093",
+    "sheet": "07",
+    "cell": 34,
+    "ink_pixels": 3994,
+    "edge_ink": false,
+    "contours": 8
+  },
+  {
+    "character": "ゔ",
+    "unicode": "U+3094",
+    "sheet": "07",
+    "cell": 35,
+    "ink_pixels": 4017,
+    "edge_ink": false,
+    "contours": 16
+  },
+  {
+    "character": "ゕ",
+    "unicode": "U+3095",
+    "sheet": "07",
+    "cell": 36,
+    "ink_pixels": 2572,
+    "edge_ink": false,
+    "contours": 8
+  },
+  {
+    "character": "ゖ",
+    "unicode": "U+3096",
+    "sheet": "07",
+    "cell": 37,
+    "ink_pixels": 2408,
+    "edge_ink": false,
+    "contours": 5
+  },
+  {
+    "character": "ァ",
+    "unicode": "U+30A1",
+    "sheet": "07",
+    "cell": 38,
+    "ink_pixels": 2178,
+    "edge_ink": false,
+    "contours": 7
+  },
+  {
+    "character": "ア",
+    "unicode": "U+30A2",
+    "sheet": "07",
+    "cell": 39,
+    "ink_pixels": 4056,
+    "edge_ink": false,
+    "contours": 7
+  },
+  {
+    "character": "ィ",
+    "unicode": "U+30A3",
+    "sheet": "07",
+    "cell": 40,
+    "ink_pixels": 1944,
+    "edge_ink": false,
+    "contours": 9
+  },
+  {
+    "character": "イ",
+    "unicode": "U+30A4",
+    "sheet": "07",
+    "cell": 41,
+    "ink_pixels": 3510,
+    "edge_ink": false,
+    "contours": 6
+  },
+  {
+    "character": "ゥ",
+    "unicode": "U+30A5",
+    "sheet": "07",
+    "cell": 42,
+    "ink_pixels": 2710,
+    "edge_ink": false,
+    "contours": 13
+  },
+  {
+    "character": "ウ",
+    "unicode": "U+30A6",
+    "sheet": "07",
+    "cell": 43,
+    "ink_pixels": 4434,
+    "edge_ink": false,
+    "contours": 9
+  },
+  {
+    "character": "ェ",
+    "unicode": "U+30A7",
+    "sheet": "07",
+    "cell": 44,
+    "ink_pixels": 2723,
+    "edge_ink": false,
+    "contours": 8
+  },
+  {
+    "character": "エ",
+    "unicode": "U+30A8",
+    "sheet": "07",
+    "cell": 45,
+    "ink_pixels": 4288,
+    "edge_ink": false,
+    "contours": 13
+  },
+  {
+    "character": "ォ",
+    "unicode": "U+30A9",
+    "sheet": "07",
+    "cell": 46,
+    "ink_pixels": 2589,
+    "edge_ink": false,
+    "contours": 10
+  },
+  {
+    "character": "オ",
+    "unicode": "U+30AA",
+    "sheet": "07",
+    "cell": 47,
+    "ink_pixels": 4470,
+    "edge_ink": false,
+    "contours": 9
+  },
+  {
+    "character": "カ",
+    "unicode": "U+30AB",
+    "sheet": "08",
+    "cell": 0,
+    "ink_pixels": 5348,
+    "edge_ink": false,
+    "contours": 4
+  },
+  {
+    "character": "ガ",
+    "unicode": "U+30AC",
+    "sheet": "08",
+    "cell": 1,
+    "ink_pixels": 5816,
+    "edge_ink": false,
+    "contours": 5
+  },
+  {
+    "character": "キ",
+    "unicode": "U+30AD",
+    "sheet": "08",
+    "cell": 2,
+    "ink_pixels": 5281,
+    "edge_ink": false,
+    "contours": 6
+  },
+  {
+    "character": "ギ",
+    "unicode": "U+30AE",
+    "sheet": "08",
+    "cell": 3,
+    "ink_pixels": 5487,
+    "edge_ink": false,
+    "contours": 7
+  },
+  {
+    "character": "ク",
+    "unicode": "U+30AF",
+    "sheet": "08",
+    "cell": 4,
+    "ink_pixels": 4799,
+    "edge_ink": false,
+    "contours": 6
+  },
+  {
+    "character": "グ",
+    "unicode": "U+30B0",
+    "sheet": "08",
+    "cell": 5,
+    "ink_pixels": 5301,
+    "edge_ink": false,
+    "contours": 11
+  },
+  {
+    "character": "ケ",
+    "unicode": "U+30B1",
+    "sheet": "08",
+    "cell": 6,
+    "ink_pixels": 4704,
+    "edge_ink": false,
+    "contours": 9
+  },
+  {
+    "character": "ゲ",
+    "unicode": "U+30B2",
+    "sheet": "08",
+    "cell": 7,
+    "ink_pixels": 5501,
+    "edge_ink": false,
+    "contours": 12
+  },
+  {
+    "character": "コ",
+    "unicode": "U+30B3",
+    "sheet": "08",
+    "cell": 8,
+    "ink_pixels": 4439,
+    "edge_ink": false,
+    "contours": 7
+  },
+  {
+    "character": "ゴ",
+    "unicode": "U+30B4",
+    "sheet": "08",
+    "cell": 9,
+    "ink_pixels": 5399,
+    "edge_ink": false,
+    "contours": 11
+  },
+  {
+    "character": "サ",
+    "unicode": "U+30B5",
+    "sheet": "08",
+    "cell": 10,
+    "ink_pixels": 5699,
+    "edge_ink": false,
+    "contours": 5
+  },
+  {
+    "character": "ザ",
+    "unicode": "U+30B6",
+    "sheet": "08",
+    "cell": 11,
+    "ink_pixels": 6128,
+    "edge_ink": false,
+    "contours": 7
+  },
+  {
+    "character": "シ",
+    "unicode": "U+30B7",
+    "sheet": "08",
+    "cell": 12,
+    "ink_pixels": 3871,
+    "edge_ink": false,
+    "contours": 10
+  },
+  {
+    "character": "ジ",
+    "unicode": "U+30B8",
+    "sheet": "08",
+    "cell": 13,
+    "ink_pixels": 4850,
+    "edge_ink": false,
+    "contours": 16
+  },
+  {
+    "character": "ス",
+    "unicode": "U+30B9",
+    "sheet": "08",
+    "cell": 14,
+    "ink_pixels": 4758,
+    "edge_ink": false,
+    "contours": 9
+  },
+  {
+    "character": "ズ",
+    "unicode": "U+30BA",
+    "sheet": "08",
+    "cell": 15,
+    "ink_pixels": 5333,
+    "edge_ink": false,
+    "contours": 15
+  },
+  {
+    "character": "セ",
+    "unicode": "U+30BB",
+    "sheet": "08",
+    "cell": 16,
+    "ink_pixels": 5536,
+    "edge_ink": false,
+    "contours": 8
+  },
+  {
+    "character": "ゼ",
+    "unicode": "U+30BC",
+    "sheet": "08",
+    "cell": 17,
+    "ink_pixels": 5833,
+    "edge_ink": false,
+    "contours": 11
+  },
+  {
+    "character": "ソ",
+    "unicode": "U+30BD",
+    "sheet": "08",
+    "cell": 18,
+    "ink_pixels": 4093,
+    "edge_ink": false,
+    "contours": 7
+  },
+  {
+    "character": "ゾ",
+    "unicode": "U+30BE",
+    "sheet": "08",
+    "cell": 19,
+    "ink_pixels": 4559,
+    "edge_ink": false,
+    "contours": 9
+  },
+  {
+    "character": "タ",
+    "unicode": "U+30BF",
+    "sheet": "08",
+    "cell": 20,
+    "ink_pixels": 5457,
+    "edge_ink": false,
+    "contours": 5
+  },
+  {
+    "character": "ダ",
+    "unicode": "U+30C0",
+    "sheet": "08",
+    "cell": 21,
+    "ink_pixels": 5954,
+    "edge_ink": false,
+    "contours": 15
+  },
+  {
+    "character": "チ",
+    "unicode": "U+30C1",
+    "sheet": "08",
+    "cell": 22,
+    "ink_pixels": 4772,
+    "edge_ink": false,
+    "contours": 8
+  },
+  {
+    "character": "ヂ",
+    "unicode": "U+30C2",
+    "sheet": "08",
+    "cell": 23,
+    "ink_pixels": 5554,
+    "edge_ink": false,
+    "contours": 11
+  },
+  {
+    "character": "ッ",
+    "unicode": "U+30C3",
+    "sheet": "08",
+    "cell": 24,
+    "ink_pixels": 2344,
+    "edge_ink": false,
+    "contours": 7
+  },
+  {
+    "character": "ツ",
+    "unicode": "U+30C4",
+    "sheet": "08",
+    "cell": 25,
+    "ink_pixels": 4707,
+    "edge_ink": false,
+    "contours": 12
+  },
+  {
+    "character": "ヅ",
+    "unicode": "U+30C5",
+    "sheet": "08",
+    "cell": 26,
+    "ink_pixels": 5143,
+    "edge_ink": false,
+    "contours": 14
+  },
+  {
+    "character": "テ",
+    "unicode": "U+30C6",
+    "sheet": "08",
+    "cell": 27,
+    "ink_pixels": 5051,
+    "edge_ink": false,
+    "contours": 14
+  },
+  {
+    "character": "デ",
+    "unicode": "U+30C7",
+    "sheet": "08",
+    "cell": 28,
+    "ink_pixels": 5672,
+    "edge_ink": false,
+    "contours": 14
+  },
+  {
+    "character": "ト",
+    "unicode": "U+30C8",
+    "sheet": "08",
+    "cell": 29,
+    "ink_pixels": 3944,
+    "edge_ink": false,
+    "contours": 6
+  },
+  {
+    "character": "ド",
+    "unicode": "U+30C9",
+    "sheet": "08",
+    "cell": 30,
+    "ink_pixels": 5050,
+    "edge_ink": false,
+    "contours": 10
+  },
+  {
+    "character": "ナ",
+    "unicode": "U+30CA",
+    "sheet": "08",
+    "cell": 31,
+    "ink_pixels": 4287,
+    "edge_ink": false,
+    "contours": 5
+  },
+  {
+    "character": "ニ",
+    "unicode": "U+30CB",
+    "sheet": "08",
+    "cell": 32,
+    "ink_pixels": 4381,
+    "edge_ink": false,
+    "contours": 10
+  },
+  {
+    "character": "ヌ",
+    "unicode": "U+30CC",
+    "sheet": "08",
+    "cell": 33,
+    "ink_pixels": 5088,
+    "edge_ink": false,
+    "contours": 3
+  },
+  {
+    "character": "ネ",
+    "unicode": "U+30CD",
+    "sheet": "08",
+    "cell": 34,
+    "ink_pixels": 5268,
+    "edge_ink": false,
+    "contours": 7
+  },
+  {
+    "character": "ノ",
+    "unicode": "U+30CE",
+    "sheet": "08",
+    "cell": 35,
+    "ink_pixels": 3123,
+    "edge_ink": false,
+    "contours": 2
+  },
+  {
+    "character": "ハ",
+    "unicode": "U+30CF",
+    "sheet": "08",
+    "cell": 36,
+    "ink_pixels": 4594,
+    "edge_ink": false,
+    "contours": 13
+  },
+  {
+    "character": "バ",
+    "unicode": "U+30D0",
+    "sheet": "08",
+    "cell": 37,
+    "ink_pixels": 5222,
+    "edge_ink": false,
+    "contours": 16
+  },
+  {
+    "character": "パ",
+    "unicode": "U+30D1",
+    "sheet": "08",
+    "cell": 38,
+    "ink_pixels": 5071,
+    "edge_ink": false,
+    "contours": 14
+  },
+  {
+    "character": "ヒ",
+    "unicode": "U+30D2",
+    "sheet": "08",
+    "cell": 39,
+    "ink_pixels": 4835,
+    "edge_ink": false,
+    "contours": 3
+  },
+  {
+    "character": "ビ",
+    "unicode": "U+30D3",
+    "sheet": "08",
+    "cell": 40,
+    "ink_pixels": 5587,
+    "edge_ink": false,
+    "contours": 10
+  },
+  {
+    "character": "ピ",
+    "unicode": "U+30D4",
+    "sheet": "08",
+    "cell": 41,
+    "ink_pixels": 5547,
+    "edge_ink": false,
+    "contours": 9
+  },
+  {
+    "character": "フ",
+    "unicode": "U+30D5",
+    "sheet": "08",
+    "cell": 42,
+    "ink_pixels": 4104,
+    "edge_ink": false,
+    "contours": 9
+  },
+  {
+    "character": "ブ",
+    "unicode": "U+30D6",
+    "sheet": "08",
+    "cell": 43,
+    "ink_pixels": 5001,
+    "edge_ink": false,
+    "contours": 16
+  },
+  {
+    "character": "プ",
+    "unicode": "U+30D7",
+    "sheet": "08",
+    "cell": 44,
+    "ink_pixels": 4903,
+    "edge_ink": false,
+    "contours": 14
+  },
+  {
+    "character": "ヘ",
+    "unicode": "U+30D8",
+    "sheet": "08",
+    "cell": 45,
+    "ink_pixels": 3812,
+    "edge_ink": false,
+    "contours": 9
+  },
+  {
+    "character": "ベ",
+    "unicode": "U+30D9",
+    "sheet": "08",
+    "cell": 46,
+    "ink_pixels": 4668,
+    "edge_ink": false,
+    "contours": 13
+  },
+  {
+    "character": "ペ",
+    "unicode": "U+30DA",
+    "sheet": "08",
+    "cell": 47,
+    "ink_pixels": 4261,
+    "edge_ink": false,
+    "contours": 9
+  },
+  {
+    "character": "ホ",
+    "unicode": "U+30DB",
+    "sheet": "09",
+    "cell": 0,
+    "ink_pixels": 5559,
+    "edge_ink": false,
+    "contours": 14
+  },
+  {
+    "character": "ボ",
+    "unicode": "U+30DC",
+    "sheet": "09",
+    "cell": 1,
+    "ink_pixels": 5755,
+    "edge_ink": false,
+    "contours": 15
+  },
+  {
+    "character": "ポ",
+    "unicode": "U+30DD",
+    "sheet": "09",
+    "cell": 2,
+    "ink_pixels": 5749,
+    "edge_ink": false,
+    "contours": 14
+  },
+  {
+    "character": "マ",
+    "unicode": "U+30DE",
+    "sheet": "09",
+    "cell": 3,
+    "ink_pixels": 3803,
+    "edge_ink": false,
+    "contours": 6
+  },
+  {
+    "character": "ミ",
+    "unicode": "U+30DF",
+    "sheet": "09",
+    "cell": 4,
+    "ink_pixels": 3320,
+    "edge_ink": false,
+    "contours": 6
+  },
+  {
+    "character": "ム",
+    "unicode": "U+30E0",
+    "sheet": "09",
+    "cell": 5,
+    "ink_pixels": 4332,
+    "edge_ink": false,
+    "contours": 13
+  },
+  {
+    "character": "メ",
+    "unicode": "U+30E1",
+    "sheet": "09",
+    "cell": 6,
+    "ink_pixels": 3872,
+    "edge_ink": false,
+    "contours": 13
+  },
+  {
+    "character": "モ",
+    "unicode": "U+30E2",
+    "sheet": "09",
+    "cell": 7,
+    "ink_pixels": 4906,
+    "edge_ink": false,
+    "contours": 9
+  },
+  {
+    "character": "ャ",
+    "unicode": "U+30E3",
+    "sheet": "09",
+    "cell": 8,
+    "ink_pixels": 2779,
+    "edge_ink": false,
+    "contours": 7
+  },
+  {
+    "character": "ヤ",
+    "unicode": "U+30E4",
+    "sheet": "09",
+    "cell": 9,
+    "ink_pixels": 4848,
+    "edge_ink": false,
+    "contours": 11
+  },
+  {
+    "character": "ュ",
+    "unicode": "U+30E5",
+    "sheet": "09",
+    "cell": 10,
+    "ink_pixels": 2509,
+    "edge_ink": false,
+    "contours": 6
+  },
+  {
+    "character": "ユ",
+    "unicode": "U+30E6",
+    "sheet": "09",
+    "cell": 11,
+    "ink_pixels": 4158,
+    "edge_ink": false,
+    "contours": 6
+  },
+  {
+    "character": "ョ",
+    "unicode": "U+30E7",
+    "sheet": "09",
+    "cell": 12,
+    "ink_pixels": 2738,
+    "edge_ink": false,
+    "contours": 7
+  },
+  {
+    "character": "ヨ",
+    "unicode": "U+30E8",
+    "sheet": "09",
+    "cell": 13,
+    "ink_pixels": 4673,
+    "edge_ink": false,
+    "contours": 10
+  },
+  {
+    "character": "ラ",
+    "unicode": "U+30E9",
+    "sheet": "09",
+    "cell": 14,
+    "ink_pixels": 4719,
+    "edge_ink": false,
+    "contours": 6
+  },
+  {
+    "character": "リ",
+    "unicode": "U+30EA",
+    "sheet": "09",
+    "cell": 15,
+    "ink_pixels": 3898,
+    "edge_ink": false,
+    "contours": 9
+  },
+  {
+    "character": "ル",
+    "unicode": "U+30EB",
+    "sheet": "09",
+    "cell": 16,
+    "ink_pixels": 4715,
+    "edge_ink": false,
+    "contours": 17
+  },
+  {
+    "character": "レ",
+    "unicode": "U+30EC",
+    "sheet": "09",
+    "cell": 17,
+    "ink_pixels": 4122,
+    "edge_ink": false,
+    "contours": 8
+  },
+  {
+    "character": "ロ",
+    "unicode": "U+30ED",
+    "sheet": "09",
+    "cell": 18,
+    "ink_pixels": 4402,
+    "edge_ink": false,
+    "contours": 10
+  },
+  {
+    "character": "ヮ",
+    "unicode": "U+30EE",
+    "sheet": "09",
+    "cell": 19,
+    "ink_pixels": 2484,
+    "edge_ink": false,
+    "contours": 11
+  },
+  {
+    "character": "ワ",
+    "unicode": "U+30EF",
+    "sheet": "09",
+    "cell": 20,
+    "ink_pixels": 4349,
+    "edge_ink": false,
+    "contours": 10
+  },
+  {
+    "character": "ヰ",
+    "unicode": "U+30F0",
+    "sheet": "09",
+    "cell": 21,
+    "ink_pixels": 5723,
+    "edge_ink": false,
+    "contours": 12
+  },
+  {
+    "character": "ヱ",
+    "unicode": "U+30F1",
+    "sheet": "09",
+    "cell": 22,
+    "ink_pixels": 4450,
+    "edge_ink": false,
+    "contours": 10
+  },
+  {
+    "character": "ヲ",
+    "unicode": "U+30F2",
+    "sheet": "09",
+    "cell": 23,
+    "ink_pixels": 4986,
+    "edge_ink": false,
+    "contours": 7
+  },
+  {
+    "character": "ン",
+    "unicode": "U+30F3",
+    "sheet": "09",
+    "cell": 24,
+    "ink_pixels": 3404,
+    "edge_ink": false,
+    "contours": 3
+  },
+  {
+    "character": "ヴ",
+    "unicode": "U+30F4",
+    "sheet": "09",
+    "cell": 25,
+    "ink_pixels": 4840,
+    "edge_ink": false,
+    "contours": 16
+  },
+  {
+    "character": "ヵ",
+    "unicode": "U+30F5",
+    "sheet": "09",
+    "cell": 26,
+    "ink_pixels": 3455,
+    "edge_ink": false,
+    "contours": 15
+  },
+  {
+    "character": "ヶ",
+    "unicode": "U+30F6",
+    "sheet": "09",
+    "cell": 27,
+    "ink_pixels": 3532,
+    "edge_ink": false,
+    "contours": 11
+  },
+  {
+    "character": "ヷ",
+    "unicode": "U+30F7",
+    "sheet": "09",
+    "cell": 28,
+    "ink_pixels": 3437,
+    "edge_ink": false,
+    "contours": 17
+  },
+  {
+    "character": "ヸ",
+    "unicode": "U+30F8",
+    "sheet": "09",
+    "cell": 29,
+    "ink_pixels": 3572,
+    "edge_ink": false,
+    "contours": 6
+  },
+  {
+    "character": "ヹ",
+    "unicode": "U+30F9",
+    "sheet": "09",
+    "cell": 30,
+    "ink_pixels": 3656,
+    "edge_ink": false,
+    "contours": 7
+  },
+  {
+    "character": "ヺ",
+    "unicode": "U+30FA",
+    "sheet": "09",
+    "cell": 31,
+    "ink_pixels": 4735,
+    "edge_ink": false,
+    "contours": 8
+  },
+  {
+    "character": "!",
+    "unicode": "U+0021",
+    "sheet": "09",
+    "cell": 32,
+    "ink_pixels": 2653,
+    "edge_ink": false,
+    "contours": 6
+  },
+  {
+    "character": "\"",
+    "unicode": "U+0022",
+    "sheet": "09",
+    "cell": 33,
+    "ink_pixels": 2315,
+    "edge_ink": false,
+    "contours": 7
+  },
+  {
+    "character": "#",
+    "unicode": "U+0023",
+    "sheet": "09",
+    "cell": 34,
+    "ink_pixels": 5977,
+    "edge_ink": false,
+    "contours": 16
+  },
+  {
+    "character": "$",
+    "unicode": "U+0024",
+    "sheet": "09",
+    "cell": 35,
+    "ink_pixels": 5707,
+    "edge_ink": false,
+    "contours": 20
+  },
+  {
+    "character": "%",
+    "unicode": "U+0025",
+    "sheet": "09",
+    "cell": 36,
+    "ink_pixels": 5710,
+    "edge_ink": false,
+    "contours": 23
+  },
+  {
+    "character": "&",
+    "unicode": "U+0026",
+    "sheet": "09",
+    "cell": 37,
+    "ink_pixels": 5600,
+    "edge_ink": false,
+    "contours": 15
+  },
+  {
+    "character": "'",
+    "unicode": "U+0027",
+    "sheet": "09",
+    "cell": 38,
+    "ink_pixels": 887,
+    "edge_ink": false,
+    "contours": 3
+  },
+  {
+    "character": "(",
+    "unicode": "U+0028",
+    "sheet": "09",
+    "cell": 39,
+    "ink_pixels": 2878,
+    "edge_ink": false,
+    "contours": 3
+  },
+  {
+    "character": ")",
+    "unicode": "U+0029",
+    "sheet": "09",
+    "cell": 40,
+    "ink_pixels": 2599,
+    "edge_ink": false,
+    "contours": 9
+  },
+  {
+    "character": "*",
+    "unicode": "U+002A",
+    "sheet": "09",
+    "cell": 41,
+    "ink_pixels": 4038,
+    "edge_ink": false,
+    "contours": 5
+  },
+  {
+    "character": "+",
+    "unicode": "U+002B",
+    "sheet": "09",
+    "cell": 42,
+    "ink_pixels": 3356,
+    "edge_ink": false,
+    "contours": 6
+  },
+  {
+    "character": ",",
+    "unicode": "U+002C",
+    "sheet": "09",
+    "cell": 43,
+    "ink_pixels": 799,
+    "edge_ink": false,
+    "contours": 3
+  },
+  {
+    "character": "-",
+    "unicode": "U+002D",
+    "sheet": "09",
+    "cell": 44,
+    "ink_pixels": 2277,
+    "edge_ink": false,
+    "contours": 4
+  },
+  {
+    "character": ".",
+    "unicode": "U+002E",
+    "sheet": "09",
+    "cell": 45,
+    "ink_pixels": 361,
+    "edge_ink": false,
+    "contours": 3
+  },
+  {
+    "character": "/",
+    "unicode": "U+002F",
+    "sheet": "09",
+    "cell": 46,
+    "ink_pixels": 2547,
+    "edge_ink": false,
+    "contours": 5
+  },
+  {
+    "character": "0",
+    "unicode": "U+0030",
+    "sheet": "09",
+    "cell": 47,
+    "ink_pixels": 6051,
+    "edge_ink": false,
+    "contours": 11
+  },
+  {
+    "character": "1",
+    "unicode": "U+0031",
+    "sheet": "10",
+    "cell": 0,
+    "ink_pixels": 3500,
+    "edge_ink": false,
+    "contours": 4
+  },
+  {
+    "character": "2",
+    "unicode": "U+0032",
+    "sheet": "10",
+    "cell": 1,
+    "ink_pixels": 5248,
+    "edge_ink": false,
+    "contours": 6
+  },
+  {
+    "character": "3",
+    "unicode": "U+0033",
+    "sheet": "10",
+    "cell": 2,
+    "ink_pixels": 5093,
+    "edge_ink": false,
+    "contours": 3
+  },
+  {
+    "character": "4",
+    "unicode": "U+0034",
+    "sheet": "10",
+    "cell": 3,
+    "ink_pixels": 4448,
+    "edge_ink": false,
+    "contours": 4
+  },
+  {
+    "character": "5",
+    "unicode": "U+0035",
+    "sheet": "10",
+    "cell": 4,
+    "ink_pixels": 5073,
+    "edge_ink": false,
+    "contours": 5
+  },
+  {
+    "character": "6",
+    "unicode": "U+0036",
+    "sheet": "10",
+    "cell": 5,
+    "ink_pixels": 4999,
+    "edge_ink": false,
+    "contours": 5
+  },
+  {
+    "character": "7",
+    "unicode": "U+0037",
+    "sheet": "10",
+    "cell": 6,
+    "ink_pixels": 4094,
+    "edge_ink": false,
+    "contours": 6
+  },
+  {
+    "character": "8",
+    "unicode": "U+0038",
+    "sheet": "10",
+    "cell": 7,
+    "ink_pixels": 5583,
+    "edge_ink": false,
+    "contours": 6
+  },
+  {
+    "character": "9",
+    "unicode": "U+0039",
+    "sheet": "10",
+    "cell": 8,
+    "ink_pixels": 5397,
+    "edge_ink": false,
+    "contours": 7
+  },
+  {
+    "character": ":",
+    "unicode": "U+003A",
+    "sheet": "10",
+    "cell": 9,
+    "ink_pixels": 1400,
+    "edge_ink": false,
+    "contours": 6
+  },
+  {
+    "character": ";",
+    "unicode": "U+003B",
+    "sheet": "10",
+    "cell": 10,
+    "ink_pixels": 1506,
+    "edge_ink": false,
+    "contours": 6
+  },
+  {
+    "character": "<",
+    "unicode": "U+003C",
+    "sheet": "10",
+    "cell": 11,
+    "ink_pixels": 3257,
+    "edge_ink": false,
+    "contours": 4
+  },
+  {
+    "character": "=",
+    "unicode": "U+003D",
+    "sheet": "10",
+    "cell": 12,
+    "ink_pixels": 3671,
+    "edge_ink": false,
+    "contours": 7
+  },
+  {
+    "character": ">",
+    "unicode": "U+003E",
+    "sheet": "10",
+    "cell": 13,
+    "ink_pixels": 3892,
+    "edge_ink": false,
+    "contours": 6
+  },
+  {
+    "character": "?",
+    "unicode": "U+003F",
+    "sheet": "10",
+    "cell": 14,
+    "ink_pixels": 3556,
+    "edge_ink": false,
+    "contours": 9
+  },
+  {
+    "character": "@",
+    "unicode": "U+0040",
+    "sheet": "10",
+    "cell": 15,
+    "ink_pixels": 6979,
+    "edge_ink": false,
+    "contours": 5
+  },
+  {
+    "character": "A",
+    "unicode": "U+0041",
+    "sheet": "10",
+    "cell": 16,
+    "ink_pixels": 5269,
+    "edge_ink": false,
+    "contours": 9
+  },
+  {
+    "character": "B",
+    "unicode": "U+0042",
+    "sheet": "10",
+    "cell": 17,
+    "ink_pixels": 6702,
+    "edge_ink": false,
+    "contours": 9
+  },
+  {
+    "character": "C",
+    "unicode": "U+0043",
+    "sheet": "10",
+    "cell": 18,
+    "ink_pixels": 5052,
+    "edge_ink": false,
+    "contours": 5
+  },
+  {
+    "character": "D",
+    "unicode": "U+0044",
+    "sheet": "10",
+    "cell": 19,
+    "ink_pixels": 6443,
+    "edge_ink": false,
+    "contours": 7
+  },
+  {
+    "character": "E",
+    "unicode": "U+0045",
+    "sheet": "10",
+    "cell": 20,
+    "ink_pixels": 6834,
+    "edge_ink": false,
+    "contours": 10
+  },
+  {
+    "character": "F",
+    "unicode": "U+0046",
+    "sheet": "10",
+    "cell": 21,
+    "ink_pixels": 5092,
+    "edge_ink": false,
+    "contours": 11
+  },
+  {
+    "character": "G",
+    "unicode": "U+0047",
+    "sheet": "10",
+    "cell": 22,
+    "ink_pixels": 6143,
+    "edge_ink": false,
+    "contours": 8
+  },
+  {
+    "character": "H",
+    "unicode": "U+0048",
+    "sheet": "10",
+    "cell": 23,
+    "ink_pixels": 6580,
+    "edge_ink": false,
+    "contours": 8
+  },
+  {
+    "character": "I",
+    "unicode": "U+0049",
+    "sheet": "10",
+    "cell": 24,
+    "ink_pixels": 3186,
+    "edge_ink": false,
+    "contours": 5
+  },
+  {
+    "character": "J",
+    "unicode": "U+004A",
+    "sheet": "10",
+    "cell": 25,
+    "ink_pixels": 4397,
+    "edge_ink": false,
+    "contours": 4
+  },
+  {
+    "character": "K",
+    "unicode": "U+004B",
+    "sheet": "10",
+    "cell": 26,
+    "ink_pixels": 5943,
+    "edge_ink": false,
+    "contours": 10
+  },
+  {
+    "character": "L",
+    "unicode": "U+004C",
+    "sheet": "10",
+    "cell": 27,
+    "ink_pixels": 4839,
+    "edge_ink": false,
+    "contours": 9
+  },
+  {
+    "character": "M",
+    "unicode": "U+004D",
+    "sheet": "10",
+    "cell": 28,
+    "ink_pixels": 6663,
+    "edge_ink": false,
+    "contours": 14
+  },
+  {
+    "character": "N",
+    "unicode": "U+004E",
+    "sheet": "10",
+    "cell": 29,
+    "ink_pixels": 6982,
+    "edge_ink": false,
+    "contours": 9
+  },
+  {
+    "character": "O",
+    "unicode": "U+004F",
+    "sheet": "10",
+    "cell": 30,
+    "ink_pixels": 5612,
+    "edge_ink": false,
+    "contours": 6
+  },
+  {
+    "character": "P",
+    "unicode": "U+0050",
+    "sheet": "10",
+    "cell": 31,
+    "ink_pixels": 5184,
+    "edge_ink": false,
+    "contours": 4
+  },
+  {
+    "character": "Q",
+    "unicode": "U+0051",
+    "sheet": "10",
+    "cell": 32,
+    "ink_pixels": 6577,
+    "edge_ink": false,
+    "contours": 11
+  },
+  {
+    "character": "R",
+    "unicode": "U+0052",
+    "sheet": "10",
+    "cell": 33,
+    "ink_pixels": 6443,
+    "edge_ink": false,
+    "contours": 9
+  },
+  {
+    "character": "S",
+    "unicode": "U+0053",
+    "sheet": "10",
+    "cell": 34,
+    "ink_pixels": 5660,
+    "edge_ink": false,
+    "contours": 6
+  },
+  {
+    "character": "T",
+    "unicode": "U+0054",
+    "sheet": "10",
+    "cell": 35,
+    "ink_pixels": 4373,
+    "edge_ink": false,
+    "contours": 8
+  },
+  {
+    "character": "U",
+    "unicode": "U+0055",
+    "sheet": "10",
+    "cell": 36,
+    "ink_pixels": 5429,
+    "edge_ink": false,
+    "contours": 11
+  },
+  {
+    "character": "V",
+    "unicode": "U+0056",
+    "sheet": "10",
+    "cell": 37,
+    "ink_pixels": 4906,
+    "edge_ink": false,
+    "contours": 10
+  },
+  {
+    "character": "W",
+    "unicode": "U+0057",
+    "sheet": "10",
+    "cell": 38,
+    "ink_pixels": 6951,
+    "edge_ink": false,
+    "contours": 12
+  },
+  {
+    "character": "X",
+    "unicode": "U+0058",
+    "sheet": "10",
+    "cell": 39,
+    "ink_pixels": 5482,
+    "edge_ink": false,
+    "contours": 13
+  },
+  {
+    "character": "Y",
+    "unicode": "U+0059",
+    "sheet": "10",
+    "cell": 40,
+    "ink_pixels": 4932,
+    "edge_ink": false,
+    "contours": 10
+  },
+  {
+    "character": "Z",
+    "unicode": "U+005A",
+    "sheet": "10",
+    "cell": 41,
+    "ink_pixels": 6416,
+    "edge_ink": false,
+    "contours": 9
+  },
+  {
+    "character": "[",
+    "unicode": "U+005B",
+    "sheet": "10",
+    "cell": 42,
+    "ink_pixels": 2991,
+    "edge_ink": false,
+    "contours": 4
+  },
+  {
+    "character": "\\",
+    "unicode": "U+005C",
+    "sheet": "10",
+    "cell": 43,
+    "ink_pixels": 2792,
+    "edge_ink": false,
+    "contours": 5
+  },
+  {
+    "character": "]",
+    "unicode": "U+005D",
+    "sheet": "10",
+    "cell": 44,
+    "ink_pixels": 3091,
+    "edge_ink": false,
+    "contours": 4
+  },
+  {
+    "character": "^",
+    "unicode": "U+005E",
+    "sheet": "10",
+    "cell": 45,
+    "ink_pixels": 3633,
+    "edge_ink": false,
+    "contours": 6
+  },
+  {
+    "character": "_",
+    "unicode": "U+005F",
+    "sheet": "10",
+    "cell": 46,
+    "ink_pixels": 2640,
+    "edge_ink": false,
+    "contours": 4
+  },
+  {
+    "character": "`",
+    "unicode": "U+0060",
+    "sheet": "10",
+    "cell": 47,
+    "ink_pixels": 845,
+    "edge_ink": false,
+    "contours": 3
+  },
+  {
+    "character": "a",
+    "unicode": "U+0061",
+    "sheet": "11",
+    "cell": 0,
+    "ink_pixels": 4209,
+    "edge_ink": false,
+    "contours": 5
+  },
+  {
+    "character": "b",
+    "unicode": "U+0062",
+    "sheet": "11",
+    "cell": 1,
+    "ink_pixels": 4517,
+    "edge_ink": false,
+    "contours": 5
+  },
+  {
+    "character": "c",
+    "unicode": "U+0063",
+    "sheet": "11",
+    "cell": 2,
+    "ink_pixels": 3242,
+    "edge_ink": false,
+    "contours": 5
+  },
+  {
+    "character": "d",
+    "unicode": "U+0064",
+    "sheet": "11",
+    "cell": 3,
+    "ink_pixels": 4568,
+    "edge_ink": false,
+    "contours": 5
+  },
+  {
+    "character": "e",
+    "unicode": "U+0065",
+    "sheet": "11",
+    "cell": 4,
+    "ink_pixels": 3594,
+    "edge_ink": false,
+    "contours": 4
+  },
+  {
+    "character": "f",
+    "unicode": "U+0066",
+    "sheet": "11",
+    "cell": 5,
+    "ink_pixels": 3824,
+    "edge_ink": false,
+    "contours": 6
+  },
+  {
+    "character": "g",
+    "unicode": "U+0067",
+    "sheet": "11",
+    "cell": 6,
+    "ink_pixels": 4519,
+    "edge_ink": false,
+    "contours": 11
+  },
+  {
+    "character": "h",
+    "unicode": "U+0068",
+    "sheet": "11",
+    "cell": 7,
+    "ink_pixels": 4494,
+    "edge_ink": false,
+    "contours": 13
+  },
+  {
+    "character": "i",
+    "unicode": "U+0069",
+    "sheet": "11",
+    "cell": 8,
+    "ink_pixels": 2511,
+    "edge_ink": false,
+    "contours": 7
+  },
+  {
+    "character": "j",
+    "unicode": "U+006A",
+    "sheet": "11",
+    "cell": 9,
+    "ink_pixels": 2800,
+    "edge_ink": false,
+    "contours": 9
+  },
+  {
+    "character": "k",
+    "unicode": "U+006B",
+    "sheet": "11",
+    "cell": 10,
+    "ink_pixels": 4947,
+    "edge_ink": false,
+    "contours": 10
+  },
+  {
+    "character": "l",
+    "unicode": "U+006C",
+    "sheet": "11",
+    "cell": 11,
+    "ink_pixels": 3313,
+    "edge_ink": false,
+    "contours": 8
+  },
+  {
+    "character": "m",
+    "unicode": "U+006D",
+    "sheet": "11",
+    "cell": 12,
+    "ink_pixels": 5009,
+    "edge_ink": false,
+    "contours": 8
+  },
+  {
+    "character": "n",
+    "unicode": "U+006E",
+    "sheet": "11",
+    "cell": 13,
+    "ink_pixels": 4620,
+    "edge_ink": false,
+    "contours": 8
+  },
+  {
+    "character": "o",
+    "unicode": "U+006F",
+    "sheet": "11",
+    "cell": 14,
+    "ink_pixels": 3801,
+    "edge_ink": false,
+    "contours": 5
+  },
+  {
+    "character": "p",
+    "unicode": "U+0070",
+    "sheet": "11",
+    "cell": 15,
+    "ink_pixels": 4379,
+    "edge_ink": false,
+    "contours": 9
+  },
+  {
+    "character": "q",
+    "unicode": "U+0071",
+    "sheet": "11",
+    "cell": 16,
+    "ink_pixels": 5080,
+    "edge_ink": false,
+    "contours": 12
+  },
+  {
+    "character": "r",
+    "unicode": "U+0072",
+    "sheet": "11",
+    "cell": 17,
+    "ink_pixels": 3532,
+    "edge_ink": false,
+    "contours": 3
+  },
+  {
+    "character": "s",
+    "unicode": "U+0073",
+    "sheet": "11",
+    "cell": 18,
+    "ink_pixels": 4400,
+    "edge_ink": false,
+    "contours": 10
+  },
+  {
+    "character": "t",
+    "unicode": "U+0074",
+    "sheet": "11",
+    "cell": 19,
+    "ink_pixels": 3852,
+    "edge_ink": false,
+    "contours": 7
+  },
+  {
+    "character": "u",
+    "unicode": "U+0075",
+    "sheet": "11",
+    "cell": 20,
+    "ink_pixels": 4426,
+    "edge_ink": false,
+    "contours": 7
+  },
+  {
+    "character": "v",
+    "unicode": "U+0076",
+    "sheet": "11",
+    "cell": 21,
+    "ink_pixels": 4144,
+    "edge_ink": false,
+    "contours": 5
+  },
+  {
+    "character": "w",
+    "unicode": "U+0077",
+    "sheet": "11",
+    "cell": 22,
+    "ink_pixels": 5347,
+    "edge_ink": false,
+    "contours": 8
+  },
+  {
+    "character": "x",
+    "unicode": "U+0078",
+    "sheet": "11",
+    "cell": 23,
+    "ink_pixels": 4729,
+    "edge_ink": false,
+    "contours": 8
+  },
+  {
+    "character": "y",
+    "unicode": "U+0079",
+    "sheet": "11",
+    "cell": 24,
+    "ink_pixels": 5251,
+    "edge_ink": false,
+    "contours": 10
+  },
+  {
+    "character": "z",
+    "unicode": "U+007A",
+    "sheet": "11",
+    "cell": 25,
+    "ink_pixels": 5200,
+    "edge_ink": false,
+    "contours": 7
+  },
+  {
+    "character": "{",
+    "unicode": "U+007B",
+    "sheet": "11",
+    "cell": 26,
+    "ink_pixels": 3070,
+    "edge_ink": false,
+    "contours": 5
+  },
+  {
+    "character": "|",
+    "unicode": "U+007C",
+    "sheet": "11",
+    "cell": 27,
+    "ink_pixels": 2458,
+    "edge_ink": false,
+    "contours": 6
+  },
+  {
+    "character": "}",
+    "unicode": "U+007D",
+    "sheet": "11",
+    "cell": 28,
+    "ink_pixels": 3010,
+    "edge_ink": false,
+    "contours": 4
+  },
+  {
+    "character": "~",
+    "unicode": "U+007E",
+    "sheet": "11",
+    "cell": 29,
+    "ink_pixels": 2737,
+    "edge_ink": false,
+    "contours": 3
+  },
+  {
+    "character": "、",
+    "unicode": "U+3001",
+    "sheet": "11",
+    "cell": 30,
+    "ink_pixels": 710,
+    "edge_ink": false,
+    "contours": 3
+  },
+  {
+    "character": "。",
+    "unicode": "U+3002",
+    "sheet": "11",
+    "cell": 31,
+    "ink_pixels": 421,
+    "edge_ink": false,
+    "contours": 2
+  },
+  {
+    "character": "・",
+    "unicode": "U+30FB",
+    "sheet": "11",
+    "cell": 32,
+    "ink_pixels": 288,
+    "edge_ink": false,
+    "contours": 1
+  },
+  {
+    "character": "「",
+    "unicode": "U+300C",
+    "sheet": "11",
+    "cell": 33,
+    "ink_pixels": 2208,
+    "edge_ink": false,
+    "contours": 9
+  },
+  {
+    "character": "」",
+    "unicode": "U+300D",
+    "sheet": "11",
+    "cell": 34,
+    "ink_pixels": 2163,
+    "edge_ink": false,
+    "contours": 9
+  },
+  {
+    "character": "『",
+    "unicode": "U+300E",
+    "sheet": "11",
+    "cell": 35,
+    "ink_pixels": 2545,
+    "edge_ink": false,
+    "contours": 9
+  },
+  {
+    "character": "』",
+    "unicode": "U+300F",
+    "sheet": "11",
+    "cell": 36,
+    "ink_pixels": 2464,
+    "edge_ink": false,
+    "contours": 2
+  },
+  {
+    "character": "（",
+    "unicode": "U+FF08",
+    "sheet": "11",
+    "cell": 37,
+    "ink_pixels": 2830,
+    "edge_ink": false,
+    "contours": 7
+  },
+  {
+    "character": "）",
+    "unicode": "U+FF09",
+    "sheet": "11",
+    "cell": 38,
+    "ink_pixels": 2752,
+    "edge_ink": false,
+    "contours": 5
+  },
+  {
+    "character": "［",
+    "unicode": "U+FF3B",
+    "sheet": "11",
+    "cell": 39,
+    "ink_pixels": 2954,
+    "edge_ink": false,
+    "contours": 8
+  },
+  {
+    "character": "］",
+    "unicode": "U+FF3D",
+    "sheet": "11",
+    "cell": 40,
+    "ink_pixels": 2933,
+    "edge_ink": false,
+    "contours": 9
+  },
+  {
+    "character": "｛",
+    "unicode": "U+FF5B",
+    "sheet": "11",
+    "cell": 41,
+    "ink_pixels": 2940,
+    "edge_ink": false,
+    "contours": 5
+  },
+  {
+    "character": "｝",
+    "unicode": "U+FF5D",
+    "sheet": "11",
+    "cell": 42,
+    "ink_pixels": 3027,
+    "edge_ink": false,
+    "contours": 6
+  },
+  {
+    "character": "〈",
+    "unicode": "U+3008",
+    "sheet": "11",
+    "cell": 43,
+    "ink_pixels": 2321,
+    "edge_ink": false,
+    "contours": 4
+  },
+  {
+    "character": "〉",
+    "unicode": "U+3009",
+    "sheet": "11",
+    "cell": 44,
+    "ink_pixels": 2312,
+    "edge_ink": false,
+    "contours": 5
+  },
+  {
+    "character": "《",
+    "unicode": "U+300A",
+    "sheet": "11",
+    "cell": 45,
+    "ink_pixels": 4667,
+    "edge_ink": false,
+    "contours": 11
+  },
+  {
+    "character": "》",
+    "unicode": "U+300B",
+    "sheet": "11",
+    "cell": 46,
+    "ink_pixels": 4637,
+    "edge_ink": false,
+    "contours": 18
+  },
+  {
+    "character": "【",
+    "unicode": "U+3010",
+    "sheet": "11",
+    "cell": 47,
+    "ink_pixels": 3323,
+    "edge_ink": false,
+    "contours": 7
+  },
+  {
+    "character": "】",
+    "unicode": "U+3011",
+    "sheet": "12",
+    "cell": 0,
+    "ink_pixels": 4854,
+    "edge_ink": false,
+    "contours": 6
+  },
+  {
+    "character": "！",
+    "unicode": "U+FF01",
+    "sheet": "12",
+    "cell": 1,
+    "ink_pixels": 3447,
+    "edge_ink": false,
+    "contours": 9
+  },
+  {
+    "character": "？",
+    "unicode": "U+FF1F",
+    "sheet": "12",
+    "cell": 2,
+    "ink_pixels": 4452,
+    "edge_ink": false,
+    "contours": 12
+  },
+  {
+    "character": "：",
+    "unicode": "U+FF1A",
+    "sheet": "12",
+    "cell": 3,
+    "ink_pixels": 1579,
+    "edge_ink": false,
+    "contours": 6
+  },
+  {
+    "character": "；",
+    "unicode": "U+FF1B",
+    "sheet": "12",
+    "cell": 4,
+    "ink_pixels": 2546,
+    "edge_ink": false,
+    "contours": 6
+  },
+  {
+    "character": "ー",
+    "unicode": "U+30FC",
+    "sheet": "12",
+    "cell": 5,
+    "ink_pixels": 2588,
+    "edge_ink": false,
+    "contours": 3
+  },
+  {
+    "character": "〜",
+    "unicode": "U+301C",
+    "sheet": "12",
+    "cell": 6,
+    "ink_pixels": 2629,
+    "edge_ink": false,
+    "contours": 6
+  },
+  {
+    "character": "…",
+    "unicode": "U+2026",
+    "sheet": "12",
+    "cell": 7,
+    "ink_pixels": 1886,
+    "edge_ink": false,
+    "contours": 7
+  },
+  {
+    "character": "‥",
+    "unicode": "U+2025",
+    "sheet": "12",
+    "cell": 8,
+    "ink_pixels": 1296,
+    "edge_ink": false,
+    "contours": 4
+  },
+  {
+    "character": "々",
+    "unicode": "U+3005",
+    "sheet": "12",
+    "cell": 9,
+    "ink_pixels": 3932,
+    "edge_ink": false,
+    "contours": 13
+  },
+  {
+    "character": "〆",
+    "unicode": "U+3006",
+    "sheet": "12",
+    "cell": 10,
+    "ink_pixels": 4543,
+    "edge_ink": false,
+    "contours": 11
+  },
+  {
+    "character": "〇",
+    "unicode": "U+3007",
+    "sheet": "12",
+    "cell": 11,
+    "ink_pixels": 6066,
+    "edge_ink": false,
+    "contours": 7
+  },
+  {
+    "character": "゛",
+    "unicode": "U+309B",
+    "sheet": "12",
+    "cell": 12,
+    "ink_pixels": 1640,
+    "edge_ink": false,
+    "contours": 9
+  },
+  {
+    "character": "゜",
+    "unicode": "U+309C",
+    "sheet": "12",
+    "cell": 13,
+    "ink_pixels": 801,
+    "edge_ink": false,
+    "contours": 3
+  },
+  {
+    "character": "ゝ",
+    "unicode": "U+309D",
+    "sheet": "12",
+    "cell": 14,
+    "ink_pixels": 1949,
+    "edge_ink": false,
+    "contours": 4
+  },
+  {
+    "character": "ゞ",
+    "unicode": "U+309E",
+    "sheet": "12",
+    "cell": 15,
+    "ink_pixels": 2293,
+    "edge_ink": false,
+    "contours": 9
+  },
+  {
+    "character": "ヽ",
+    "unicode": "U+30FD",
+    "sheet": "12",
+    "cell": 16,
+    "ink_pixels": 2128,
+    "edge_ink": false,
+    "contours": 3
+  },
+  {
+    "character": "ヾ",
+    "unicode": "U+30FE",
+    "sheet": "12",
+    "cell": 17,
+    "ink_pixels": 2362,
+    "edge_ink": false,
+    "contours": 6
+  },
+  {
+    "character": "〒",
+    "unicode": "U+3012",
+    "sheet": "12",
+    "cell": 18,
+    "ink_pixels": 4978,
+    "edge_ink": false,
+    "contours": 11
+  },
+  {
+    "character": "※",
+    "unicode": "U+203B",
+    "sheet": "12",
+    "cell": 19,
+    "ink_pixels": 5349,
+    "edge_ink": false,
+    "contours": 18
+  },
+  {
+    "character": "￥",
+    "unicode": "U+FFE5",
+    "sheet": "12",
+    "cell": 20,
+    "ink_pixels": 5602,
+    "edge_ink": false,
+    "contours": 7
+  },
+  {
+    "character": "篆",
+    "unicode": "U+7BC6",
+    "sheet": "13",
+    "cell": 0,
+    "ink_pixels": 6204,
+    "edge_ink": false,
+    "contours": 15
+  },
+  {
+    "character": "蟲",
+    "unicode": "U+87F2",
+    "sheet": "13",
+    "cell": 1,
+    "ink_pixels": 6115,
+    "edge_ink": false,
+    "contours": 15
+  },
+  {
+    "character": "體",
+    "unicode": "U+9AD4",
+    "sheet": "13",
+    "cell": 2,
+    "ink_pixels": 7555,
+    "edge_ink": false,
+    "contours": 16
+  },
+  {
+    "character": "印",
+    "unicode": "U+5370",
+    "sheet": "13",
+    "cell": 3,
+    "ink_pixels": 5277,
+    "edge_ink": false,
+    "contours": 9
+  },
+  {
+    "character": "章",
+    "unicode": "U+7AE0",
+    "sheet": "13",
+    "cell": 4,
+    "ink_pixels": 5921,
+    "edge_ink": false,
+    "contours": 10
+  },
+  {
+    "character": "龍",
+    "unicode": "U+9F8D",
+    "sheet": "13",
+    "cell": 5,
+    "ink_pixels": 7345,
+    "edge_ink": false,
+    "contours": 11
+  },
+  {
+    "character": "鳳",
+    "unicode": "U+9CF3",
+    "sheet": "13",
+    "cell": 6,
+    "ink_pixels": 7567,
+    "edge_ink": false,
+    "contours": 15
+  },
+  {
+    "character": "凰",
+    "unicode": "U+51F0",
+    "sheet": "13",
+    "cell": 7,
+    "ink_pixels": 7492,
+    "edge_ink": false,
+    "contours": 15
+  },
+  {
+    "character": "夢",
+    "unicode": "U+5922",
+    "sheet": "13",
+    "cell": 8,
+    "ink_pixels": 6126,
+    "edge_ink": false,
+    "contours": 17
+  },
+  {
+    "character": "雅",
+    "unicode": "U+96C5",
+    "sheet": "13",
+    "cell": 9,
+    "ink_pixels": 6556,
+    "edge_ink": false,
+    "contours": 13
+  },
+  {
+    "character": "寿",
+    "unicode": "U+5BFF",
+    "sheet": "13",
+    "cell": 10,
+    "ink_pixels": 6160,
+    "edge_ink": false,
+    "contours": 7
+  },
+  {
+    "character": "福",
+    "unicode": "U+798F",
+    "sheet": "13",
+    "cell": 11,
+    "ink_pixels": 7067,
+    "edge_ink": false,
+    "contours": 10
+  },
+  {
+    "character": "喜",
+    "unicode": "U+559C",
+    "sheet": "13",
+    "cell": 12,
+    "ink_pixels": 5994,
+    "edge_ink": false,
+    "contours": 12
+  },
+  {
+    "character": "美",
+    "unicode": "U+7F8E",
+    "sheet": "13",
+    "cell": 13,
+    "ink_pixels": 7327,
+    "edge_ink": false,
+    "contours": 15
+  },
+  {
+    "character": "愛",
+    "unicode": "U+611B",
+    "sheet": "13",
+    "cell": 14,
+    "ink_pixels": 6681,
+    "edge_ink": false,
+    "contours": 16
+  },
+  {
+    "character": "永",
+    "unicode": "U+6C38",
+    "sheet": "13",
+    "cell": 15,
+    "ink_pixels": 5255,
+    "edge_ink": false,
+    "contours": 15
+  },
+  {
+    "character": "飛",
+    "unicode": "U+98DB",
+    "sheet": "13",
+    "cell": 16,
+    "ink_pixels": 7125,
+    "edge_ink": false,
+    "contours": 15
+  },
+  {
+    "character": "舞",
+    "unicode": "U+821E",
+    "sheet": "13",
+    "cell": 17,
+    "ink_pixels": 6922,
+    "edge_ink": false,
+    "contours": 10
+  },
+  {
+    "character": "和",
+    "unicode": "U+548C",
+    "sheet": "13",
+    "cell": 18,
+    "ink_pixels": 5731,
+    "edge_ink": false,
+    "contours": 10
+  },
+  {
+    "character": "吉",
+    "unicode": "U+5409",
+    "sheet": "13",
+    "cell": 19,
+    "ink_pixels": 5232,
+    "edge_ink": false,
+    "contours": 6
+  },
+  {
+    "character": "祥",
+    "unicode": "U+7965",
+    "sheet": "13",
+    "cell": 20,
+    "ink_pixels": 6404,
+    "edge_ink": false,
+    "contours": 12
+  },
+  {
+    "character": "祝",
+    "unicode": "U+795D",
+    "sheet": "13",
+    "cell": 21,
+    "ink_pixels": 6162,
+    "edge_ink": false,
+    "contours": 11
+  },
+  {
+    "character": "禄",
+    "unicode": "U+7984",
+    "sheet": "13",
+    "cell": 22,
+    "ink_pixels": 7752,
+    "edge_ink": false,
+    "contours": 15
+  },
+  {
+    "character": "豊",
+    "unicode": "U+8C4A",
+    "sheet": "13",
+    "cell": 23,
+    "ink_pixels": 6510,
+    "edge_ink": false,
+    "contours": 13
+  },
+  {
+    "character": "鶴",
+    "unicode": "U+9DB4",
+    "sheet": "13",
+    "cell": 24,
+    "ink_pixels": 8086,
+    "edge_ink": false,
+    "contours": 21
+  },
+  {
+    "character": "亀",
+    "unicode": "U+4E80",
+    "sheet": "13",
+    "cell": 25,
+    "ink_pixels": 8054,
+    "edge_ink": false,
+    "contours": 18
+  },
+  {
+    "character": "桜",
+    "unicode": "U+685C",
+    "sheet": "13",
+    "cell": 26,
+    "ink_pixels": 7183,
+    "edge_ink": false,
+    "contours": 18
+  },
+  {
+    "character": "梅",
+    "unicode": "U+6885",
+    "sheet": "13",
+    "cell": 27,
+    "ink_pixels": 7451,
+    "edge_ink": false,
+    "contours": 14
+  },
+  {
+    "character": "霞",
+    "unicode": "U+971E",
+    "sheet": "13",
+    "cell": 28,
+    "ink_pixels": 7406,
+    "edge_ink": false,
+    "contours": 10
+  },
+  {
+    "character": "虹",
+    "unicode": "U+8679",
+    "sheet": "13",
+    "cell": 29,
+    "ink_pixels": 6493,
+    "edge_ink": false,
+    "contours": 10
+  },
+  {
+    "character": "鷹",
+    "unicode": "U+9DF9",
+    "sheet": "13",
+    "cell": 30,
+    "ink_pixels": 6467,
+    "edge_ink": false,
+    "contours": 15
+  },
+  {
+    "character": "虎",
+    "unicode": "U+864E",
+    "sheet": "13",
+    "cell": 31,
+    "ink_pixels": 5997,
+    "edge_ink": false,
+    "contours": 8
+  },
+  {
+    "character": "蛇",
+    "unicode": "U+86C7",
+    "sheet": "13",
+    "cell": 32,
+    "ink_pixels": 6807,
+    "edge_ink": false,
+    "contours": 8
+  },
+  {
+    "character": "蝶",
+    "unicode": "U+8776",
+    "sheet": "13",
+    "cell": 33,
+    "ink_pixels": 7734,
+    "edge_ink": false,
+    "contours": 24
+  },
+  {
+    "character": "蜂",
+    "unicode": "U+8702",
+    "sheet": "13",
+    "cell": 34,
+    "ink_pixels": 7302,
+    "edge_ink": false,
+    "contours": 22
+  },
+  {
+    "character": "蓮",
+    "unicode": "U+84EE",
+    "sheet": "13",
+    "cell": 35,
+    "ink_pixels": 7864,
+    "edge_ink": false,
+    "contours": 15
+  },
+  {
+    "character": "華",
+    "unicode": "U+83EF",
+    "sheet": "13",
+    "cell": 36,
+    "ink_pixels": 5977,
+    "edge_ink": false,
+    "contours": 14
+  },
+  {
+    "character": "宝",
+    "unicode": "U+5B9D",
+    "sheet": "13",
+    "cell": 37,
+    "ink_pixels": 6739,
+    "edge_ink": false,
+    "contours": 10
+  },
+  {
+    "character": "霊",
+    "unicode": "U+970A",
+    "sheet": "13",
+    "cell": 38,
+    "ink_pixels": 7614,
+    "edge_ink": false,
+    "contours": 17
+  },
+  {
+    "character": "神",
+    "unicode": "U+795E",
+    "sheet": "13",
+    "cell": 39,
+    "ink_pixels": 6074,
+    "edge_ink": false,
+    "contours": 9
+  },
+  {
+    "character": "聖",
+    "unicode": "U+8056",
+    "sheet": "13",
+    "cell": 40,
+    "ink_pixels": 6296,
+    "edge_ink": false,
+    "contours": 6
+  },
+  {
+    "character": "祭",
+    "unicode": "U+796D",
+    "sheet": "13",
+    "cell": 41,
+    "ink_pixels": 6636,
+    "edge_ink": false,
+    "contours": 16
+  },
+  {
+    "character": "幸",
+    "unicode": "U+5E78",
+    "sheet": "13",
+    "cell": 42,
+    "ink_pixels": 4311,
+    "edge_ink": false,
+    "contours": 7
+  },
+  {
+    "character": "結",
+    "unicode": "U+7D50",
+    "sheet": "13",
+    "cell": 43,
+    "ink_pixels": 4638,
+    "edge_ink": false,
+    "contours": 8
+  },
+  {
+    "character": "絆",
+    "unicode": "U+7D46",
+    "sheet": "13",
+    "cell": 44,
+    "ink_pixels": 4259,
+    "edge_ink": false,
+    "contours": 10
+  },
+  {
+    "character": "平",
+    "unicode": "U+5E73",
+    "sheet": "13",
+    "cell": 45,
+    "ink_pixels": 3231,
+    "edge_ink": false,
+    "contours": 5
+  },
+  {
+    "character": "安",
+    "unicode": "U+5B89",
+    "sheet": "13",
+    "cell": 46,
+    "ink_pixels": 4349,
+    "edge_ink": false,
+    "contours": 4
+  },
+  {
+    "character": "藝",
+    "unicode": "U+85DD",
+    "sheet": "13",
+    "cell": 47,
+    "ink_pixels": 5245,
+    "edge_ink": false,
+    "contours": 11
+  }
+]

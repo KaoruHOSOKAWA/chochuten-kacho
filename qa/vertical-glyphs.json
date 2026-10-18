@@ -1,0 +1,30 @@
+{
+  "rotated_clockwise": "「」『』（）［］｛｝〈〉《》【】：；ー〜…‥",
+  "translated_upper_right": "、。",
+  "glyphs": {
+    "「": "uni300C.vert",
+    "」": "uni300D.vert",
+    "『": "uni300E.vert",
+    "』": "uni300F.vert",
+    "（": "uniFF08.vert",
+    "）": "uniFF09.vert",
+    "［": "uniFF3B.vert",
+    "］": "uniFF3D.vert",
+    "｛": "uniFF5B.vert",
+    "｝": "uniFF5D.vert",
+    "〈": "uni3008.vert",
+    "〉": "uni3009.vert",
+    "《": "uni300A.vert",
+    "》": "uni300B.vert",
+    "【": "uni3010.vert",
+    "】": "uni3011.vert",
+    "：": "uniFF1A.vert",
+    "；": "uniFF1B.vert",
+    "ー": "uni30FC.vert",
+    "〜": "uni301C.vert",
+    "…": "uni2026.vert",
+    "‥": "uni2025.vert",
+    "、": "uni3001.vert",
+    "。": "uni3002.vert"
+  }
+}

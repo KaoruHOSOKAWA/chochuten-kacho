@@ -1,0 +1,9 @@
+.venv
+.buildcache
+**/__pycache__
+.git
+.agents
+.aws
+.codex
+output
+qa

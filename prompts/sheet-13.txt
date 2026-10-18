@@ -1,0 +1,11 @@
+Use case: stylized-concept. Asset type: source glyph atlas for an original Japanese display font, Chochuten Kacho. Create a pure black on pure white glyph sheet, portrait 1536x2048, exactly SIX equal columns and EIGHT equal rows, 48 invisible square cells, no margins outside the grid. One glyph per cell, centered, with 18% clear whitespace padding inside each cell. No visible grid, borders, captions, labels, shadows, colors, paper texture or decoration outside glyphs.
+Style: elegant ancient Chinese bird-and-insect seal script (鳥虫篆 / 鳥蟲篆), long coiling continuous monoline ink strokes, bird-beak and small bird-eye terminals integrated organically INTO the strokes, graceful insect-like sinuous tails, small teardrop loops. Strong original calligraphic character, consistent stroke thickness around 7% of cell width, smooth clean closed silhouettes for vector tracing. Preserve each requested character's identity and structure. Kana and Latin letters use the SAME serpentine bird-seal aesthetic but remain recognizable. Punctuation should remain functional. No ordinary modern typeface. All strokes solid black, background solid white.
+CRITICAL: follow the exact row-major sequence below, left to right then top to bottom. Each line is one row of six glyphs; spaces are separators, not requested glyphs. Render ONLY these glyphs, no headings or extra marks. Unused cells in the final row and all remaining rows must stay blank.
+篆 蟲 體 印 章 龍
+鳳 凰 夢 雅 寿 福
+喜 美 愛 永 飛 舞
+和 吉 祥 祝 禄 豊
+鶴 亀 桜 梅 霞 虹
+鷹 虎 蛇 蝶 蜂 蓮
+華 宝 霊 神 聖 祭
+幸 結 絆 平 安 藝

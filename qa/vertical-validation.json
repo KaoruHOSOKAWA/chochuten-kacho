@@ -1,0 +1,28 @@
+{
+  "ttf": {
+    "vertical_alternates": 24,
+    "rotation": 22,
+    "translation": 2,
+    "shaping_checks": 288,
+    "features": [
+      "vert",
+      "vrt2"
+    ],
+    "horizontal_forms_preserved": true,
+    "bounds_and_vertical_origins": "passed",
+    "context_shaping": "passed"
+  },
+  "otf": {
+    "vertical_alternates": 24,
+    "rotation": 22,
+    "translation": 2,
+    "shaping_checks": 288,
+    "features": [
+      "vert",
+      "vrt2"
+    ],
+    "horizontal_forms_preserved": true,
+    "bounds_and_vertical_origins": "passed",
+    "context_shaping": "passed"
+  }
+}

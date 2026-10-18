@@ -1,0 +1,9 @@
+name: chochuten-font
+services:
+  font:
+    build: .
+    network_mode: none
+    user: "${LOCAL_UID:-1000}:${LOCAL_GID:-1000}"
+    volumes:
+      - ./output:/work/output
+      - ./qa:/work/qa

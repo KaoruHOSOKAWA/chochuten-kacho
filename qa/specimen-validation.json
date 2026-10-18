@@ -1,0 +1,13 @@
+{
+  "font_sha256": "6d7d7519139718737ad6ce6d1cd984043fc4e0b4f87b0ede5fa400ec38114266",
+  "listed_characters": 686,
+  "vertical_forms": 24,
+  "missing_characters": 0,
+  "duplicate_codepoints": 0,
+  "unresolved_svg_references": 0,
+  "editable_fields": 1,
+  "inline_style_overrides": 0,
+  "vertical_glyphs_match_harfbuzz": true,
+  "readme_starts_with_sample_image": true,
+  "license": "CC0-1.0"
+}

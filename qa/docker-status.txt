@@ -1,0 +1,6 @@
+Docker build and verification: COMPLETED.
+Font generation, rendering, verification and release packaging run inside Docker.
+No host Python virtual environment or host dependency cache is used.
+The source code and generated glyph atlases are copied into the image.
+Only output/ and qa/ are mounted from the host.
+Runtime networking is disabled.

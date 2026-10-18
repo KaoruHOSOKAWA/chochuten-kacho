@@ -1,0 +1,13 @@
+{
+  "unicode_mappings": 686,
+  "nonempty_rendered": 683,
+  "formats": [
+    "TTF quadratic-outline OpenType",
+    "OTF CFF-outline OpenType"
+  ],
+  "min_ttf_otf_raster_iou": 0.7859464866216554,
+  "min_one_pixel_tolerant_agreement": 0.9917898193760263,
+  "max_outline_bound_difference_units": 0,
+  "no_segmentation_edge_ink": true,
+  "docker_execution": "container"
+}
