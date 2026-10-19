@@ -4,8 +4,8 @@
     "unicode_mappings": 686,
     "glyphs": 711,
     "vertical_alternates": 24,
-    "bytes": 870156,
-    "sha256": "6d7d7519139718737ad6ce6d1cd984043fc4e0b4f87b0ede5fa400ec38114266",
+    "bytes": 870204,
+    "sha256": "40051bfecfa205f6753cc9710d614d31c59c21a66470d51b02785a084b12ea7b",
     "grade1": 80,
     "grade2": 160
   },
@@ -14,8 +14,8 @@
     "unicode_mappings": 686,
     "glyphs": 711,
     "vertical_alternates": 24,
-    "bytes": 1010112,
-    "sha256": "903ca4c0f6e091c3cd6ba2f667b3e92b4e7f75ac047478dcf804bd80cb42e26e",
+    "bytes": 1010160,
+    "sha256": "aacb1847d4eda131c2463fb01ec66df075ee081b23b4230e38a087e73eea29dc",
     "grade1": 80,
     "grade2": 160
   }

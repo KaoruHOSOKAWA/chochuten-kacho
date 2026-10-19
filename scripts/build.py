@@ -117,7 +117,13 @@ for is_ttf in [True,False]:
  fb.font['name'].setName('鳥虫篆 花鳥',1,3,1,0x411)
  fb.font['name'].setName('標準',2,3,1,0x411)
  fb.font['name'].setName('鳥虫篆 花鳥 標準',4,3,1,0x411)
- fb.setupOS2(sTypoAscender=900,sTypoDescender=-140,sTypoLineGap=100,usWinAscent=1050,usWinDescent=200,fsType=0)
+ # Modern applications may prefer typographic family/subfamily names.
+ for language,family,style in [(0x409,'Chochuten Kacho','Regular'),(0x411,'鳥虫篆 花鳥','標準')]:
+  fb.font['name'].setName(family,16,3,1,language)
+  fb.font['name'].setName(style,17,3,1,language)
+ # Declare Latin and Japanese (Shift JIS) support for OS language filtering.
+ # setupOS2 infers Unicode ranges, but does not infer code-page ranges.
+ fb.setupOS2(sTypoAscender=900,sTypoDescender=-140,sTypoLineGap=100,usWinAscent=1050,usWinDescent=200,fsType=0,ulCodePageRange1=(1<<0)|(1<<17),ulCodePageRange2=0)
  fb.setupPost(keepGlyphNames=True)
  fb.setupVerticalMetrics({gn:(1000,900-max((y for ps in polys for x,y in ps),default=0)) for gn,polys in outlines.items()})
  fb.setupVerticalHeader(ascent=500,descent=-500)
@@ -163,6 +169,9 @@ for suffix in ['ttf','otf']:
  assert ('CFF ' in f)==(suffix=='otf')
  assert 'CC0 1.0 Universal' in f['name'].getDebugName(13)
  assert f['name'].getDebugName(14)=='https://creativecommons.org/publicdomain/zero/1.0/'
+ assert f['OS/2'].ulCodePageRange1 & (1<<17), 'Japanese code-page support must be declared'
+ for name_id,expected in [(1,'鳥虫篆 花鳥'),(2,'標準'),(4,'鳥虫篆 花鳥 標準'),(16,'鳥虫篆 花鳥'),(17,'標準')]:
+  assert f['name'].getName(name_id,3,1,0x411).toUnicode()==expected
  checks[suffix]={'version':VERSION,'unicode_mappings':len(cmap),'glyphs':len(f.getGlyphOrder()),'vertical_alternates':len(vertical_names),'bytes':path.stat().st_size,'sha256':hashlib.sha256(path.read_bytes()).hexdigest(),'grade1':80,'grade2':160}
 (QA/'validation.json').write_text(json.dumps(checks,indent=2))
 print(json.dumps(checks,indent=2))
