@@ -10,22 +10,22 @@
   },
   "fonts": {
     "ttf": {
-      "version": "1.002",
+      "version": "1.003",
       "unicode_mappings": 686,
       "glyphs": 711,
       "vertical_alternates": 24,
       "bytes": 870204,
-      "sha256": "9a37806e5ba05ccc05eb937f5d40484ffec3ec7dade397df275bad20074547c4",
+      "sha256": "716b8e494fd58b99ee1828fa6d59206b7eb6e6181313069fbf72530f535e943a",
       "grade1": 80,
       "grade2": 160
     },
     "otf": {
-      "version": "1.002",
+      "version": "1.003",
       "unicode_mappings": 686,
       "glyphs": 711,
       "vertical_alternates": 24,
       "bytes": 1010160,
-      "sha256": "888deaf2dcea7d9fba76306672e9a4db0c25c5bc1a05b17e350aba3f03c0f434",
+      "sha256": "fe6c9110cc56e6849fb31b437dcfad3e1daa9c6b519e7714f14846f882e0fdac",
       "grade1": 80,
       "grade2": 160
     }
@@ -60,7 +60,7 @@
     }
   },
   "specimen_validation": {
-    "font_sha256": "9a37806e5ba05ccc05eb937f5d40484ffec3ec7dade397df275bad20074547c4",
+    "font_sha256": "716b8e494fd58b99ee1828fa6d59206b7eb6e6181313069fbf72530f535e943a",
     "listed_characters": 686,
     "vertical_forms": 24,
     "missing_characters": 0,

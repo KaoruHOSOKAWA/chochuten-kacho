@@ -7,5 +7,6 @@ python scripts/build.py
 python scripts/verify.py
 python scripts/verify-vertical.py
 python scripts/verify-specimen.py
+python scripts/stretch.py
 python scripts/docker-provenance.py
 python scripts/package.py

@@ -1,6 +1,6 @@
 ![鳥虫篆 花鳥の使用見本](output/specimen.png)
 
-# 鳥虫篆 花鳥 — Chochuten Kacho 1.002
+# 鳥虫篆 花鳥 — Chochuten Kacho 1.003
 
 鳥の嘴・目・尾と虫のような曲線を筆画に織り込んだ、鳥虫篆を題材にした和文装飾フォントです。
 
@@ -8,7 +8,7 @@
 
 ## ダウンロード
 
-[GitHub Releases](https://github.com/KaoruHOSOKAWA/chochuten-kacho/releases/tag/v1.002)から、OTF・TTF・元画像とソースを含む配布ZIPをダウンロードできます。
+[GitHub Releases](https://github.com/KaoruHOSOKAWA/chochuten-kacho/releases/tag/v1.003)から、OTF・TTF・元画像とソースを含む配布ZIPをダウンロードできます。
 
 フォント名は「鳥虫篆 花鳥 / Chochuten Kacho」です。OTFかTTFのどちらか一方をインストールしてください。
 
@@ -34,3 +34,13 @@ docker compose run --rm font
 ```
 
 生成済み元画像からビルドし、OTF・TTF・見本・配布ZIPを `output/` に出力します。
+
+通常版に加え、横幅を変えずにベースライン基準で縦座標を1.5倍にした
+「鳥虫篆 花鳥 縦長150 / Chochuten Kacho Tall150」も生成します。
+ファイル名は `ChochutenKacho-Tall150-Regular.ttf` / `.otf` です。
+行間と縦書きの送りも高さに合わせて拡張しています。
+通常版の生成後、`python scripts/stretch.py` で個別に再生成できます。
+
+全角588文字と縦組み用24字形の送り幅は、通常版・縦長版とも1000 unitsです。
+結合濁点・半濁点は重ね合わせ用のため0です。
+`qa/stretch-validation.json` に全角送り幅・全711字形の座標変換・組版の検証結果を記録します。

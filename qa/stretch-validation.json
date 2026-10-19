@@ -1,0 +1,40 @@
+{
+  "ttf": {
+    "original": {
+      "fullwidth_characters": 588,
+      "advance_width": 1000,
+      "vertical_alternates": 24,
+      "combining_marks_width": 0
+    },
+    "tall150": {
+      "fullwidth_characters": 588,
+      "advance_width": 1000,
+      "vertical_alternates": 24,
+      "combining_marks_width": 0
+    },
+    "glyphs_point_checked": 711,
+    "horizontal_metrics_unchanged": true,
+    "y_scale": 1.5,
+    "rounding": "OpenType nearest integer, ties towards positive infinity",
+    "horizontal_and_vertical_shaping": "passed"
+  },
+  "otf": {
+    "original": {
+      "fullwidth_characters": 588,
+      "advance_width": 1000,
+      "vertical_alternates": 24,
+      "combining_marks_width": 0
+    },
+    "tall150": {
+      "fullwidth_characters": 588,
+      "advance_width": 1000,
+      "vertical_alternates": 24,
+      "combining_marks_width": 0
+    },
+    "glyphs_point_checked": 711,
+    "horizontal_metrics_unchanged": true,
+    "y_scale": 1.5,
+    "rounding": "OpenType nearest integer, ties towards positive infinity",
+    "horizontal_and_vertical_shaping": "passed"
+  }
+}
