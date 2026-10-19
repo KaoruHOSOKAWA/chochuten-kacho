@@ -1,6 +1,6 @@
 ![鳥虫篆 花鳥の使用見本](output/specimen.png)
 
-# 鳥虫篆 花鳥 — Chochuten Kacho 1.001
+# 鳥虫篆 花鳥 — Chochuten Kacho 1.002
 
 鳥の嘴・目・尾と虫のような曲線を筆画に織り込んだ、鳥虫篆を題材にした和文装飾フォントです。
 
@@ -8,7 +8,7 @@
 
 ## ダウンロード
 
-[GitHub Releases](https://github.com/KaoruHOSOKAWA/chochuten-kacho/releases/tag/v1.001)から、OTF・TTF・元画像とソースを含む配布ZIPをダウンロードできます。
+[GitHub Releases](https://github.com/KaoruHOSOKAWA/chochuten-kacho/releases/tag/v1.002)から、OTF・TTF・元画像とソースを含む配布ZIPをダウンロードできます。
 
 フォント名は「鳥虫篆 花鳥 / Chochuten Kacho」です。OTFかTTFのどちらか一方をインストールしてください。
 
