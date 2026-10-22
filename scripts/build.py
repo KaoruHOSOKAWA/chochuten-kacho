@@ -10,6 +10,7 @@ from fontTools.pens.t2CharStringPen import T2CharStringPen
 from fontTools.feaLib.builder import addOpenTypeFeaturesFromString
 from fontTools.ttLib import TTFont, newTable
 from vertical import VERSION, ROTATED, SHIFTED
+from metadata import apply_metadata, verify_metadata
 ROOT=Path(__file__).resolve().parent.parent
 OUT=ROOT/'output'; QA=ROOT/'qa'
 OUT.mkdir(exist_ok=True); QA.mkdir(exist_ok=True)
@@ -121,9 +122,9 @@ for is_ttf in [True,False]:
  for language,family,style in [(0x409,'Chochuten Kacho','Regular'),(0x411,'鳥虫篆 花鳥','標準')]:
   fb.font['name'].setName(family,16,3,1,language)
   fb.font['name'].setName(style,17,3,1,language)
- # Declare Latin and Japanese (Shift JIS) support for OS language filtering.
+ # Declare Japanese (Shift JIS) support for OS language filtering.
  # setupOS2 infers Unicode ranges, but does not infer code-page ranges.
- fb.setupOS2(sTypoAscender=900,sTypoDescender=-140,sTypoLineGap=100,usWinAscent=1050,usWinDescent=200,fsType=0,ulCodePageRange1=(1<<0)|(1<<17),ulCodePageRange2=0)
+ fb.setupOS2(sTypoAscender=900,sTypoDescender=-140,sTypoLineGap=100,usWinAscent=1050,usWinDescent=200,fsType=0,ulCodePageRange1=(1<<17),ulCodePageRange2=0)
  fb.setupPost(keepGlyphNames=True)
  fb.setupVerticalMetrics({gn:(1000,900-max((y for ps in polys for x,y in ps),default=0)) for gn,polys in outlines.items()})
  fb.setupVerticalHeader(ascent=500,descent=-500)
@@ -144,6 +145,7 @@ for is_ttf in [True,False]:
  for tag in ['vert','vrt2']:
   features+=f'feature {tag} {{\n{vertical_rules}\n}} {tag};\n'
  addOpenTypeFeaturesFromString(fb.font,features)
+ apply_metadata(fb.font)
  fb.font.recalcTimestamp=False;fb.font['head'].created=fb.font['head'].modified=3875126400
  suffix='ttf' if is_ttf else 'otf'
  fb.save(OUT/f'ChochutenKacho-Regular.{suffix}')
@@ -162,6 +164,7 @@ checks={}
 for suffix in ['ttf','otf']:
  path=OUT/f'ChochutenKacho-Regular.{suffix}';f=TTFont(path)
  cmap=f.getBestCmap()
+ verify_metadata(f)
  assert set(map(ord,m['characters']))<=set(cmap)
  assert all(f['hmtx'][cmap[ord(c)]][0]==1000 for c in m['sets']['grade1']+m['sets']['grade2'])
  assert all(f['hmtx'][cmap[ord(c)]][0]==0 for c in '\u3099\u309a')

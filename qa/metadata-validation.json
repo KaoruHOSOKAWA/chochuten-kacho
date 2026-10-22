@@ -1,0 +1,62 @@
+{
+  "ChochutenKacho-Regular.ttf": {
+    "meta": {
+      "dlng": "Jpan",
+      "slng": "Jpan, Latn"
+    },
+    "fsSelection": "0x40",
+    "codepage_1252": false,
+    "codepage_japanese": true,
+    "japanese_description_and_license": true,
+    "macintosh_english_names": true,
+    "unicode_characters": 686,
+    "glyphs": 711,
+    "all_outlines_and_metrics_unchanged": true,
+    "GSUB_unchanged": true
+  },
+  "ChochutenKacho-Regular.otf": {
+    "meta": {
+      "dlng": "Jpan",
+      "slng": "Jpan, Latn"
+    },
+    "fsSelection": "0x40",
+    "codepage_1252": false,
+    "codepage_japanese": true,
+    "japanese_description_and_license": true,
+    "macintosh_english_names": true,
+    "unicode_characters": 686,
+    "glyphs": 711,
+    "all_outlines_and_metrics_unchanged": true,
+    "GSUB_unchanged": true
+  },
+  "ChochutenKacho-Tall150-Regular.ttf": {
+    "meta": {
+      "dlng": "Jpan",
+      "slng": "Jpan, Latn"
+    },
+    "fsSelection": "0x40",
+    "codepage_1252": false,
+    "codepage_japanese": true,
+    "japanese_description_and_license": true,
+    "macintosh_english_names": true,
+    "unicode_characters": 686,
+    "glyphs": 711,
+    "all_outlines_and_metrics_unchanged": true,
+    "GSUB_unchanged": true
+  },
+  "ChochutenKacho-Tall150-Regular.otf": {
+    "meta": {
+      "dlng": "Jpan",
+      "slng": "Jpan, Latn"
+    },
+    "fsSelection": "0x40",
+    "codepage_1252": false,
+    "codepage_japanese": true,
+    "japanese_description_and_license": true,
+    "macintosh_english_names": true,
+    "unicode_characters": 686,
+    "glyphs": 711,
+    "all_outlines_and_metrics_unchanged": true,
+    "GSUB_unchanged": true
+  }
+}

@@ -1,4 +1,4 @@
 """Vertical forms derived exclusively from the image-generated outlines."""
-VERSION = '1.003'
+VERSION = '1.004'
 ROTATED = '「」『』（）［］｛｝〈〉《》【】：；ー〜…‥'
 SHIFTED = '、。'

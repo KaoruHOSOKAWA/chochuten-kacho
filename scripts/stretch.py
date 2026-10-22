@@ -10,6 +10,7 @@ from fontTools.pens.t2CharStringPen import T2CharStringPen
 from fontTools.pens.recordingPen import RecordingPen
 from fontTools.pens.boundsPen import BoundsPen
 import uharfbuzz as hb
+from metadata import apply_metadata, verify_metadata
 
 ROOT = Path(__file__).resolve().parent.parent
 OUT = ROOT / 'output'
@@ -93,9 +94,11 @@ for ext in ('ttf', 'otf'):
                                4: f'{family} {style}', 6: 'ChochutenKacho-Tall150-Regular',
                                16: family, 17: style}.items():
             font['name'].setName(value, name_id, 3, 1, language)
+    apply_metadata(font, tall=True)
     path = OUT / f'ChochutenKacho-Tall150-Regular.{ext}'
     font.save(path)
     result = TTFont(path)
+    verify_metadata(result)
     assert result['head'].unitsPerEm == original['head'].unitsPerEm == 1000
     assert result.getBestCmap() == original.getBestCmap()
     assert result['hmtx'].metrics == original['hmtx'].metrics
